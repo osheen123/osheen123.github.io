@@ -1,0 +1,15 @@
+.navbar{
+    background: #5e6584;
+}
+
+.myactive{
+    background: #535972 !important;
+}
+
+.navbarText, .text{
+    color: #ffffff !important;
+}
+
+.card {
+    box-shadow: 4px 2px 15px 5px rgba(0,0,0,0.2);
+  }

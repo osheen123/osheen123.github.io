@@ -1,0 +1,1 @@
+$(".navbar-pillet").hover(function(){$(this).css("background","#535972")}, function(){$(this).css("background","#5e6584")})
