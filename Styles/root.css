@@ -1,0 +1,27 @@
+.navbar{
+    background: #000000;
+}
+
+.mybutton{
+    background: #000000;
+}
+
+.myactive{
+    background: #666666 !important;
+}
+
+.navbarText, .text{
+    color: #ffffff !important;
+}
+
+.card {     
+    margin: 15px 0px 0px 0px;
+    border-radius: 0px;    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
