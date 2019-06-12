@@ -1,0 +1,16 @@
+ <div class="col-sm-6">
+        <div class="row card">
+          <div class="col-md-6">
+            <div class="embed-responsive embed-responsive-16by9" style="height: 120px">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6ZFwmlV9_FY?rel=0" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="col-md-6">            
+            <div style="border: 2px solid">
+              <h4>
+                <b>[Free FLP] Osheen & JayJen - Flying (Tropical House)</b>
+              </h4>              
+            </div>
+          </div>
+        </div>          
+      </div>         
