@@ -10,21 +10,23 @@ $(document).ready(function(){
         {
           var videoTitle= data['items'][i]['snippet']['title'];
           var videoID=data['items'][i]['snippet']['resourceId']['videoId']
-          AddVideoToParent(videoTitle,videoID)
+          var videoThumbnail=data['items'][i]['snippet']['thumbnails']['maxres']['url']
+          AddVideoToParent(videoTitle,videoID,videoThumbnail)
+          console.log(data['items'][i])
           if(loadershow==1){
             loadershow==0;
             $("#loader").hide();
-          }
+          }          
         }
       });
 });
 
-function AddVideoToParent(videoTitle, videoID){
+function AddVideoToParent(videoTitle, videoID, videoThumbnail){
   var divElement=`
   <div class="col-md-4">        
   <div class="col-xs-12 card">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/`+videoID+`?rel=0&modestbranding=0&autohide=1&showinfo=0&controls=0&autoplay=1" frameborder="0" allowfullscreen style="padding-top: 10px;"></iframe>
+      <div class="embed-responsive embed-responsive-16by9" onclick="location.href='https://www.youtube.com/watch?v=`+videoID+`'">
+        <img class="embed-responsive-item" src="`+videoThumbnail+`" frameborder="0" allowfullscreen style="padding-top: 10px;"></img>
       </div>
       <div style="margin-top: 10px;">
         <h4><b>`+videoTitle+`</b></h4>
