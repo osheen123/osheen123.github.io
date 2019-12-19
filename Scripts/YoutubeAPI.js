@@ -1,35 +1,59 @@
 
 const baseAPI='https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=9&playlistId=UUwafG7DfOibd4Ou5926puFQ&key=AIzaSyC4Bx68UyfZJ7YymFw-hQkwJPy4z8_6J68';
 
-$(document).ready(function(){
-    var loadershow=1;
-    //$('#content-container').append('<h2>HELLO WORLD</h2>');
-    $.get( baseAPI, function( data ) {        
-        //console.log(data['items'])
-        for (var i in data['items'])
-        {
-          var videoTitle= data['items'][i]['snippet']['title'];
-          var videoID=data['items'][i]['snippet']['resourceId']['videoId']
-          var videoThumbnail=data['items'][i]['snippet']['thumbnails']['maxres']['url']
-          AddVideoToParent(videoTitle,videoID,videoThumbnail)
-          console.log(data['items'][i])
-          if(loadershow==1){
-            loadershow==0;
-            $("#loader").hide();
-          }          
-        }
-      });
+var pageToken="0";
+var scrolltokenarray=[]
+var loadershow=1;
+
+$(document).ready(function(){   
+    YoutubeAPI();    
 });
 
-function AddVideoToParent(videoTitle, videoID, videoThumbnail){
+$(window).scroll(function() {  
+  if($(window).scrollTop() + $(window).height() >= $(document).height()-250){     
+      if(!scrolltokenarray.includes(pageToken) && pageToken!=undefined) {
+        //alert(pageToken)
+        YoutubeAPI()
+        scrolltokenarray.push(pageToken)
+      }      
+      // $(document).height()x
+  }
+});
+
+function YoutubeAPI(){
+  var requestAPI=baseAPI
+  if((pageToken!=undefined && pageToken!="0"))
+    requestAPI=baseAPI+"&pageToken="+pageToken   
+  $.get( requestAPI, function( data ) {        
+    pageToken=data['nextPageToken']
+    for (var i in data['items'])
+    {      
+      try
+      {
+        var videoTitle= data['items'][i]['snippet']['title'];
+        var videoID=data['items'][i]['snippet']['resourceId']['videoId']
+        var videoThumbnail=data['items'][i]['snippet']['thumbnails']['maxres']['url']
+        AddVideoToParent(videoTitle,videoID,videoThumbnail)      
+        if(loadershow==1)
+        {
+          loadershow==0;
+          $("#loader").hide();
+        }                  
+      }catch(e){}      
+    }
+  });
+}
+
+
+function AddVideoToParent(videoTitle, videoID, videoThumbnail){ 
   var divElement=`
-  <div class="col-md-4">        
+  <div class="col-sm-4">        
   <div class="col-xs-12 card">
       <div class="embed-responsive embed-responsive-16by9" onclick="location.href='https://www.youtube.com/watch?v=`+videoID+`'">
         <img class="embed-responsive-item" src="`+videoThumbnail+`" frameborder="0" allowfullscreen style="padding-top: 10px;"></img>
       </div>
-      <div style="margin-top: 10px;">
-        <h4><b>`+videoTitle+`</b></h4>
+      <div style="margin-top: 10px; height:50px;">
+        <h5><b>`+videoTitle+`</b></h5>
       </div>             
       <div onclick="location.href='https://www.youtube.com/watch?v=`+videoID+`'" class="navbar-pillet mybutton" style="text-align: center; padding: 10px; margin-bottom: 10px;">
           <b style="color: #FFFFFF">DOWNLOAD FLP</b>
