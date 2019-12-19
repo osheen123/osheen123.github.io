@@ -3,7 +3,6 @@ const baseAPI='https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&
 
 var pageToken="0";
 var scrolltokenarray=[]
-var loadershow=1;
 
 $(document).ready(function(){   
     YoutubeAPI();    
@@ -34,9 +33,8 @@ function YoutubeAPI(){
         var videoID=data['items'][i]['snippet']['resourceId']['videoId']
         var videoThumbnail=data['items'][i]['snippet']['thumbnails']['maxres']['url']
         AddVideoToParent(videoTitle,videoID,videoThumbnail)      
-        if(loadershow==1)
-        {
-          loadershow==0;
+        if(pageToken==undefined)
+        {          
           $("#loader").hide();
         }                  
       }catch(e){}      
@@ -50,13 +48,13 @@ function AddVideoToParent(videoTitle, videoID, videoThumbnail){
   <div class="col-sm-4">        
   <div class="col-xs-12 card">
       <div class="embed-responsive embed-responsive-16by9" onclick="location.href='https://www.youtube.com/watch?v=`+videoID+`'">
-        <img class="embed-responsive-item" src="`+videoThumbnail+`" frameborder="0" allowfullscreen style="padding-top: 10px;"></img>
+        <img class="embed-responsive-item" src="`+videoThumbnail+`" frameborder="0" allowfullscreen style="padding-top: 10px; cursor: pointer;"></img>
       </div>
       <div style="margin-top: 10px; height:50px;">
         <h5><b>`+videoTitle+`</b></h5>
       </div>             
-      <div onclick="location.href='https://www.youtube.com/watch?v=`+videoID+`'" class="navbar-pillet mybutton" style="text-align: center; padding: 10px; margin-bottom: 10px;">
-          <b style="color: #FFFFFF">DOWNLOAD FLP</b>
+      <div onclick="location.href='https://www.youtube.com/watch?v=`+videoID+`'" class="navbar-pillet mybutton" style="text-align: center; padding: 10px; margin-bottom: 10px;cursor: pointer;">
+          <b style="color: #FFFFFF;">DOWNLOAD FLP</b>
       </div>
   </div>                
 </div>`
