@@ -35,7 +35,7 @@ function YoutubeAPI(){
         AddVideoToParent(videoTitle,videoID,videoThumbnail)      
         if(pageToken==undefined)
         {          
-          $("#loader").hide();
+          $("#loader1").hide();
         }                  
       }catch(e){}      
     }
