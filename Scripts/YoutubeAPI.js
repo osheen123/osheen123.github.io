@@ -9,7 +9,7 @@ $(document).ready(function(){
 });
 
 $(window).scroll(function() {  
-  if($(window).scrollTop() + $(window).height() >= $(document).height()-250){     
+  if($(window).scrollTop() + $(window).height() >= $(document).height()-50){     
       if(!scrolltokenarray.includes(pageToken) && pageToken!=undefined) {
         //alert(pageToken)
         YoutubeAPI()
@@ -35,7 +35,7 @@ function YoutubeAPI(){
         AddVideoToParent(videoTitle,videoID,videoThumbnail)      
         if(pageToken==undefined)
         {          
-          $("#loader1").hide();
+          $("#loader").hide();
         }                  
       }catch(e){}      
     }
