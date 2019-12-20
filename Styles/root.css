@@ -6,6 +6,10 @@
     background: #000000;
 }
 
+.mybutton:hover{
+    background: #666666 !important;
+}
+
 .myactive{
     background: #666666 !important;
 }
