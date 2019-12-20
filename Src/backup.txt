@@ -1,16 +1,13 @@
- <div class="col-sm-6">
-        <div class="row card">
-          <div class="col-md-6">
-            <div class="embed-responsive embed-responsive-16by9" style="height: 120px">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6ZFwmlV9_FY?rel=0" allowfullscreen></iframe>
+<div class="col-md-4">        
+        <div class="col-xs-12 card">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qC7tvoD0r3o?rel=0&modestbranding=0&autohide=1&showinfo=0&controls=0&autoplay=1" frameborder="0" allowfullscreen style="padding-top: 10px;"></iframe>
             </div>
-          </div>
-          <div class="col-md-6">            
-            <div style="border: 2px solid">
-              <h4>
-                <b>[Free FLP] Osheen & JayJen - Flying (Tropical House)</b>
-              </h4>              
+            <div style="margin-top: 10px;">
+              <h4><b>TIM (ALBUM) - ALL MELODIES [FL STUDIO]</b></h4>
+            </div>             
+            <div onclick="location.href='https://www.youtube.com/watch?v='" class="navbar-pillet mybutton" style="text-align: center; padding: 10px; margin-bottom: 10px;">
+                <b style="color: #FFFFFF">DOWNLOAD FLP</b>
             </div>
-          </div>
-        </div>          
-      </div>         
+        </div>                
+      </div>  
