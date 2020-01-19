@@ -21,25 +21,35 @@ $(window).scroll(function() {
 
 function YoutubeAPI(){
   var requestAPI=baseAPI
+  
   if((pageToken!=undefined && pageToken!="0"))
     requestAPI=baseAPI+"&pageToken="+pageToken   
   $.get( requestAPI, function( data ) {        
     pageToken=data['nextPageToken']
     for (var i in data['items'])
-    {      
+    {              
       try
       {
         var videoTitle= data['items'][i]['snippet']['title'];
         var videoID=data['items'][i]['snippet']['resourceId']['videoId']
-        var videoThumbnail=data['items'][i]['snippet']['thumbnails']['maxres']['url']
+        var videoThumbnail
+        try{
+          videoThumbnail=data['items'][i]['snippet']['thumbnails']['maxres']['url']
+        }catch(e){
+          videoThumbnail=data['items'][i]['snippet']['thumbnails']['high']['url']
+        }
+
+        console.log(videoTitle)
         AddVideoToParent(videoTitle,videoID,videoThumbnail)      
         if(pageToken==undefined)
         {          
           $("#loader").hide();
         }                  
-      }catch(e){}      
+      }catch(e){
+        console.log("some error here " +e.toString())
+      }      
     }
-  });
+  });  
 }
 
 
