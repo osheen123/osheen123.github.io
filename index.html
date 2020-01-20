@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     
@@ -17,8 +17,7 @@
     <!--LOAD BOOTSTRAP JQUERY-->
     
     <!--LOAD CUSTOM CSS-->
-    <link rel="stylesheet" href="Styles/root.css">
-    <link rel="stylesheet" href="Styles/loader.css">
+    <link rel="stylesheet" href="Styles/root.css">    
     <!--LOAD CUSTOM CSS-->
   </head>
   <body>
@@ -52,15 +51,32 @@
     <!--TOP NAV BAR-->  
 
     <!--CONTENT CONTAINER-->
-    <div class="container"  id="content-container">    
-                          
+    <div class="container-fluid" style="padding: 0px;"  id="content-container">    
+      
+      <div class="row" style="background-color: #000000; padding-top:20px;   ">
+        <div class="col-sm-12" style="display: flex; justify-content: center;">
+            <img style="height:300px;" class="img-responsive" src="Src/circle.png"/>
+        </div>                          
+    </div>          
+
+    <div class="row" style="background-color: #000000;">
+        <div class="col-sm-12 text" style="height:300px;display: flex;justify-content: center;">
+            <div class="text-center">
+                <h1 style="font-size:7vmin;"><b>OSHEEN</b></h1>
+                <p style="font-size: 3.5vmin;">Osheen Khare (OSHEEN) is a music producer from India <br> This site contains FLP's / Music / SamplePacks <br> Consider following him on social media </p>
+                <a href="http://youtube.com/osheen"><img style="width: 7vmin;" src="Src/instagram.png"/></a>                                           
+                <a href="http://youtube.com/osheen"><img style="width: 7vmin; margin-left: 10px;" src="Src/facebook.png"/></a>                                           
+                <a href="http://youtube.com/osheen"><img style="width: 7vmin; margin-left: 10px;" src="Src/youtube.png"/></a>                                           
+                <a href="http://youtube.com/osheen"><img style="width: 7vmin; margin-left: 10px;" src="Src/google.png"/></a>                                           
+                <a href="http://youtube.com/osheen"><img style="width: 7vmin; margin-left: 10px;" src="Src/snapchat.png"/></a>                                           
+            </div>                                    
+        </div>      
+    </div>
 
     </div>
     <!--CONTENT CONTAINER-->    
   </div>  
-  
-  <div id="loader"></div>
+    
   </body> 
-  <script src="Scripts/Navbar.js"></script>
-  <script src="Scripts/YoutubeAPI.js"></script>  
+  <script src="Scripts/Navbar.js"></script>  
 </html>
