@@ -17,8 +17,7 @@
     <!--LOAD BOOTSTRAP JQUERY-->
     
     <!--LOAD CUSTOM CSS-->
-    <link rel="stylesheet" href="Styles/root.css">
-    <link rel="stylesheet" href="Styles/loader.css">
+    <link rel="stylesheet" href="Styles/root.css">    
     <!--LOAD CUSTOM CSS-->
   </head>
   <body>
@@ -34,16 +33,16 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>                        
               </button>
-              <a class="navbar-brand navbarText" href="https://www.osheenmusic.com">OSHEEN</a>      
+              <a class="navbar-brand navbarText" href="/index">OSHEEN</a>      
             </div>
             <div class="collapse navbar-collapse navbar-right" id="myNavbar">
               <ul class="nav navbar-nav">
-                <li class="navbar-pillet"><a href="https://www.osheenmusic.com" class="navbarText">HOME</a></li>        
-                <li class="myactive navbar-pillet"><a href="https://www.osheenmusic.com" class="navbarText">MUSIC</a></li>
-                <li class="navbar-pillet"><a href="https://www.osheenmusic.com" class="navbarText">SAMPLE PACKS</a></li>
-                <li class="navbar-pillet"><a href="https://www.osheenmusic.com" class="navbarText">TUTORIALS / FLP</a></li>
-                <li class="navbar-pillet"><a href="https://www.osheenmusic.com" class="navbarText">USAGE</a></li>
-                <li class="navbar-pillet"><a href="https://www.osheenmusic.com" class="navbarText">CONTACT</a></li>
+                <li class="navbar-pillet"><a href="/index" class="navbarText">HOME</a></li>        
+                <li class="myactive navbar-pillet"><a href="/music" class="navbarText">MUSIC</a></li>
+                <li class="navbar-pillet"><a href="/samplepacks" class="navbarText">SAMPLE PACKS</a></li>
+                <li class="navbar-pillet"><a href="/flp" class="navbarText">TUTORIALS / FLP</a></li>
+                <li class="navbar-pillet"><a href="/usage" class="navbarText">USAGE</a></li>
+                <li class="navbar-pillet"><a href="/contact" class="navbarText">CONTACT</a></li>
               </ul>      
             </div>
           </div>
@@ -52,15 +51,40 @@
     <!--TOP NAV BAR-->  
 
     <!--CONTENT CONTAINER-->
-    <div class="container"  id="content-container">    
-                          
+    <div class="container-fluid" style="padding: 0px;"  id="content-container">    
+        
+      <div class="col-sm-6">
+        <div class="row card" style="padding: 20px;">
+          <div class="col-md-12" style="display: flex;justify-content: center; padding: 10px;">
+            <b style="font-size: 150%">OSHEEN - EYE ON YOU</b>
+          </div>
+          <div class="col-md-6" style="display: flex;justify-content: center; padding: 5px;">
+            <a href="https://instagram.com/osheenkhare"><img style="width: 25vmin;" src="Src/amazon-music.svg"/></a>            
+          </div>
+          <div class="col-md-6" style="display: flex;justify-content: center; padding: 5px;">
+            <a href="https://instagram.com/osheenkhare"><img style="width: 25vmin;" src="Src/apple-music.svg"/></a>            
+          </div>
+          <div class="col-md-6" style="display: flex;justify-content: center; padding: 5px;">
+            <a href="https://instagram.com/osheenkhare"><img style="width: 25vmin;" src="Src/deezer.svg"/></a>            
+          </div>          
+          <div class="col-md-6" style="display: flex;justify-content: center; padding: 15px;">
+            <a href="https://instagram.com/osheenkhare"><img style="width: 25vmin;" src="Src/youtube.svg"/></a>            
+          </div>
+          <div class="col-md-6" style="display: flex;justify-content: center; padding: 15px;">
+            <a href="https://instagram.com/osheenkhare"><img style="width: 25vmin;" src="Src/googleplay.svg"/></a>            
+          </div>
+          <div class="col-md-6" style="display: flex;justify-content: center; padding: 14px;">
+            <a href="https://instagram.com/osheenkhare"><img style="width: 25vmin;" src="Src/spotify.svg"/></a>            
+          </div>          
+        </div>
+      </div>
+      
+
 
     </div>
     <!--CONTENT CONTAINER-->    
   </div>  
-  
-  <div id="loader"></div>
+    
   </body> 
-  <script src="Scripts/Navbar.js"></script>
-  <script src="Scripts/YoutubeAPI.js"></script>  
+  <script src="Scripts/Navbar.js"></script>  
 </html>
