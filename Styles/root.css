@@ -25,3 +25,7 @@
     transition: 0.3s;
     background-color: #FFFFFF;
 }
+
+.logo {
+    font-size: 17vmin;
+}
