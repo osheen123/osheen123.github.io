@@ -20,6 +20,22 @@
     <link rel="stylesheet" href="Styles/root.css">
     <link rel="stylesheet" href="Styles/loader.css">
     <!--LOAD CUSTOM CSS-->
+
+    <style>
+    .strike {
+        position: relative;
+        display: inline-block;
+    }
+    .strike::before {
+        content: '';
+        border-bottom: 3px solid #FFFFFF;
+        width: 100%;
+        position: absolute;
+        right: 0;
+        top: 40%;
+    }   
+    </style>
+
   </head>
   <body>
 
@@ -52,9 +68,38 @@
     <!--TOP NAV BAR-->  
 
     <!--CONTENT CONTAINER-->
-    <div class="container" id="content-container" >    
-                          
-
+    <div class="container" id="content-container" >                                      
+        <div class="col-md-4"></div>
+        <div class="col-md-4">        
+            <div class="col-md-12 card" style="padding:10px;">
+                <div class="embed-responsive embed-responsive-16by9">
+                  <img id="urlyt" class="embed-responsive-item" src="" frameborder="0" allowfullscreen style="padding-top: 10px;"></img>
+                </div>
+                <div style="margin-top: 10px;">
+                  <h4><b id="textyt"> </b></h4>
+                </div>             
+                <div style="text-align: center;">
+                  <h6><b>Please follow me on these social links to unlock FLP</b></h6>
+                </div>             
+                <div id="youtubeButton" style="text-align: center; padding: 10px; margin-bottom: 10px;cursor: pointer; background: #c4302b;">
+                    <b style="color: #FFFFFF;" id="youtubeText">SUBSCRIBE ON YOUTUBE</b>
+                </div>
+                <div id="facebookButton" style="text-align: center; padding: 10px; margin-bottom: 10px;cursor: pointer; background: #3b5998;">
+                    <b style="color: #FFFFFF;" id="facebookText">LIKE ON FACEBOOK</b>
+                </div>
+                <div id="instagramButton" style="text-align: center; padding: 10px; margin-bottom: 10px;cursor: pointer; background: #bc2a8d;">
+                    <b style="color: #FFFFFF;" id="instagramText">FOLLOW ON INSTAGRAM</b>
+                </div>
+                <div id="downloadButton" style="text-align: center; padding: 10px; margin-bottom: 10px;cursor: pointer; background: #cacaca;">
+                    <b style="color: #FFFFFF;" id="downloadText">DOWNLOAD FLP [LOCKED] </b>
+                </div>
+                <div style="text-align: center;" id="append1">                    
+                </div> 
+                <div style=" margin-bottom: 10px; display: flex; justify-content: space-evenly;" id="append2">                    
+                </div>               
+            </div>                
+        </div>
+        <div class="col-md-4"></div>
     </div>
     <!--CONTENT CONTAINER-->    
   </div>  
@@ -64,6 +109,6 @@
   
 
   </body> 
-  <script src="Scripts/Navbar.js"></script>
-  <script src="Scripts/YoutubeAPI.js"></script>  
+  <script src="Scripts/Navbar.js"></script>  
+  <script src="Scripts/FlpDB.js"></script>  
 </html>

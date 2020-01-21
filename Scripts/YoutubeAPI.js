@@ -39,7 +39,7 @@ function YoutubeAPI(){
           videoThumbnail=data['items'][i]['snippet']['thumbnails']['high']['url']
         }
 
-        console.log(videoTitle)
+        //console.log(videoTitle)
         AddVideoToParent(videoTitle,videoID,videoThumbnail)      
         if(pageToken==undefined)
         {          
@@ -63,7 +63,7 @@ function AddVideoToParent(videoTitle, videoID, videoThumbnail){
       <div style="margin-top: 10px; height:50px;">
         <h5><b>`+videoTitle+`</b></h5>
       </div>             
-      <div onclick="location.href='https://www.youtube.com/watch?v=`+videoID+`'" class="navbar-pillet mybutton" style="text-align: center; padding: 10px; margin-bottom: 10px;cursor: pointer;">
+      <div onclick="location.href='/getflp?id=`+videoID+`'" class="navbar-pillet mybutton" style="text-align: center; padding: 10px; margin-bottom: 10px;cursor: pointer;">
           <b style="color: #FFFFFF;">DOWNLOAD FLP</b>
       </div>
   </div>                
