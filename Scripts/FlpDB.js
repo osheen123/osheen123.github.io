@@ -12,14 +12,13 @@ var flpdb ={
 var yt=0;
 var ins=0;
 var fb=0;
-var imgyt="https://i.ytimg.com/vi/Alr19Aya2UQ/maxresdefault.jpg"
 
 $(document).ready(function(){ 
     param=location.href.split("?")
     if(param.length==2){                  
         x = param[1].split("id=")[1]
         if(flpdb[x]===undefined){
-            $('#content-container').html('<div class="col-md-4"></div><div class="col-md-4"style="text-align: center;"><b>FLP NOT RELEASED YET, PLEASE WRITE TO osheen.mix@gmail.com</b></div><div class="col-md-4"></div>')
+            $('#content-container').html('<div class="col-md-4"></div><div class="col-md-4"style="text-align: center;"><b>FLP NOT RELEASED YET, WRITE TO osheen.mix@gmail.com</b></div><div class="col-md-4"></div>')
             $("#loader").hide(); 
         }
         else{
