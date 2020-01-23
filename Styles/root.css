@@ -26,6 +26,25 @@
     background-color: #FFFFFF;
 }
 
+.cardnoshadow {     
+    margin: 15px 0px 0px 0px;
+    border-radius: 0px;        
+    background-color: #FFFFFF;
+}
+
 .logo {
     font-size: 17vmin;
+}
+
+.lineHeading{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1.5px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+}
+
+.lineHeadingText{
+    background:#fff; 
+    padding:0 10px; 
 }
