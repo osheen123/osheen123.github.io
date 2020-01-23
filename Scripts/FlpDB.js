@@ -25,6 +25,7 @@ $(document).ready(function(){
             $("#loader").hide();  
             $("#urlyt").attr("src", "https://i.ytimg.com/vi/"+x+"/maxresdefault.jpg");
             $("#textyt").text(flpdb[x]["name"]);
+            $("#myform").show()
         }
     }
     else{
