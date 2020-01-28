@@ -40,7 +40,7 @@ $(document).ready(function(){
 
 $("#youtubeButton").click(function(){
     if(yt==0){
-        var win = window.open('https://youtube.com/osheen', '_blank');
+        var win = window.open('https://www.youtube.com/osheen?sub_conformation=1', '_blank');
         win.focus();
         yt=1
         $("#youtubeText").addClass("strike");
