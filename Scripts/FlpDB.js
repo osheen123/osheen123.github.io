@@ -44,8 +44,9 @@ $("#youtubeButton").click(function(){
     if(yt==0){
         var win = window.open('https://www.youtube.com/osheen?sub_conformation=1', '_blank');
         win.focus();
-        yt=1
+        yt=1        
         $("#youtubeText").addClass("strike");
+        timeFunction()
         enable()
     }        
 })
@@ -56,6 +57,7 @@ $("#facebookButton").click(function(){
         win.focus();
         fb=1
         $("#facebookText").addClass("strike");
+        timeFunction()
         enable()
     }    
 })
@@ -66,6 +68,7 @@ $("#instagramButton").click(function(){
         win.focus();
         ins=1
         $("#instagramText").addClass("strike");
+        timeFunction()
         enable()
     }    
 })
@@ -89,3 +92,6 @@ $("#downloadButton").click(function(){
     }
 })
 
+function timeFunction() {
+   setTimeout(function(){  }, 1000);
+}
