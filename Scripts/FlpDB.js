@@ -20,8 +20,9 @@ var fb=0;
 
 $(document).ready(function(){ 
     param=location.href.split("?")
-    if(param.length==2){                  
-        x = param[1].split("id=")[1]
+    if(param.length>=2){                
+        var nn=param[1].split("&")[0]
+        var x = nn.split("id=")[1]
         if(flpdb[x]===undefined){
             $('#content-container').html('<div class="col-md-4"></div><div class="col-md-4"style="text-align: center;"><b>FLP NOT RELEASED YET, WRITE TO osheen.mix@gmail.com</b></div><div class="col-md-4"></div>')
             $("#loader").hide(); 
