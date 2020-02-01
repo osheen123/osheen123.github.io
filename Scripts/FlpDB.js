@@ -17,6 +17,7 @@ var flpdb ={
 var yt=0;
 var ins=0;
 var fb=0;
+var x=""
 
 $(document).ready(function(){ 
     param=location.href.split("?")
