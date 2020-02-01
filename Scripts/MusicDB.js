@@ -128,6 +128,16 @@ var musicdb=[
         "deezer" : "https://www.deezer.com/album/119444772",
         "apple" : "https://music.apple.com/us/album/break-single/1488260648?uo=4&app=music&at=1001lry3&ct=dashboard",
         "amazon" : "https://music.amazon.in/albums/B081M9G6CD"
+    },
+    
+    { //14
+        "name" : "OSHEEN - BINDINGS",
+        "spotify" : "https://open.spotify.com/album/19nWdp38wxuVD5gB8mJGHg",
+        "google" : "https://play.google.com/store/music/album/Osheen_Bindings?id=Bme7w3jj6jbsyyh7gtkvygk3v5y",
+        "youtube" : "https://www.youtube.com/watch?v=dp07sSzq0qA",
+        "deezer" : "https://www.deezer.com/album/128877752",
+        "apple" : "https://music.apple.com/us/album/bindings-single/1496905123?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "https://music.amazon.ca/albums/B0848L5WDT"
     }
 
 
@@ -138,7 +148,7 @@ var musicdb=[
 
 $(document).ready(function(){           
     param=location.href.split("?")
-    if(param.length==2){
+    if(param.length>=2){
         AddSingle(param[1].split("id=")[1])
     }
     else{
