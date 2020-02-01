@@ -149,7 +149,8 @@ var musicdb=[
 $(document).ready(function(){           
     param=location.href.split("?")
     if(param.length>=2){
-        AddSingle(param[1].split("id=")[1])
+        var nn=param[1].split("&")[0]
+        AddSingle(nn.split("id=")[1])
     }
     else{
         AddVideoCards(); 
