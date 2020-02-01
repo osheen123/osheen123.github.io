@@ -44,10 +44,11 @@ $("#youtubeButton").click(function(){
     if(yt==0){
         var win = window.open('https://www.youtube.com/osheen?sub_conformation=1', '_blank');
         win.focus();
-        yt=1        
+        yt=1  
+        setTimeout(function(){  
         $("#youtubeText").addClass("strike");
-        timeFunction()
         enable()
+        }, 1000);               
     }        
 })
 
@@ -56,9 +57,11 @@ $("#facebookButton").click(function(){
         var win = window.open('https://www.facebook.com/osheenmusic/', '_blank');
         win.focus();
         fb=1
-        $("#facebookText").addClass("strike");
-        timeFunction()
+        setTimeout(function(){  
+        $("#facebookText").addClass("strike");        
         enable()
+        }, 1000);
+        
     }    
 })
 
@@ -67,9 +70,10 @@ $("#instagramButton").click(function(){
         var win = window.open('https://www.instagram.com/osheenkhare/', '_blank');
         win.focus();
         ins=1
-        $("#instagramText").addClass("strike");
-        timeFunction()
+        setTimeout(function(){  
+        $("#instagramText").addClass("strike");                
         enable()
+        }, 1000);                
     }    
 })
 
