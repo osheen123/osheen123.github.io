@@ -37,9 +37,13 @@ var flpdb ={
         "name" : "Producing An EDM Drop (Start To Finish)",
         "flp" : "http://google.com"
     },
-    "p0VcC43OUzo" : { // 2019 - 1st
+    "p0VcC43OUzo" : { // 2020 - 1
         "name" : "HOW TO MAKE HAPPY PROGRESSIVE HOUSE IN 5 MINUTES",
-        "flp" : "https://drive.google.com/file/d/16iYwftcyFggA-UvV9NY1mJOJZH0DlC8s/view?usp=sharing"
+        "flp" : "U2FsdGVkX1/wRVI3QAU12Wc6+1nB1QY4PhpMXPKS+gjtk/bcfvPK9dXtQVpHoL9sNFWZNkXL2VeA5m55jJHeA61K8hKxh9LsSKSG9JKEoqSGkhTeKdUMKlmZ6uTtQlE+FG+4NJLF8JEyf26wLwXckg=="
+    },
+    "gLh25POz0Qc":{
+        "name" : "HOW TO MAKE MELODIC DUBSTEP IN 5 MINUTES",
+        "flp" : "U2FsdGVkX1+Bj2uYMh4/ecfL3dbWatdtNH9sYl07O3/Ozlk8Ssv/agOFUX3zNZrcB4pnVPPfiJRdefzZS6cO7dcd20ZUjDQwofUvBy7hN7nCS5Mtpbc53QU/Cbqxp1BUqwHAzUZyONbzicNCPw5ZfA=="
     }
     
 }
@@ -60,7 +64,7 @@ $(document).ready(function(){
         }
         else{
             $("#loader").hide();  
-            $("#urlyt").attr("src", "https://i.ytimg.com/vi/"+x+"/maxresdefault.jpg");
+            $("#urlyt").attr("src", "https://i.ytimg.com/vi/"+x+"/hqdefault.jpg");
             $("#textyt").text(flpdb[x]["name"]);
             $("#myform").show()
         }
@@ -118,7 +122,8 @@ function enable(){
 
 $("#downloadButton").click(function(){
     if(ins+yt+fb==3){
-        var win = window.open(flpdb[x]["flp"], '_blank');
+        var my_value= CryptoJS.AES.decrypt(flpdb[x]["flp"], x).toString(CryptoJS.enc.Utf8);
+        var win = window.open(my_value, '_blank');
         win.focus();                
     }
     else{
