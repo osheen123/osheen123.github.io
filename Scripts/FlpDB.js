@@ -33,10 +33,6 @@ var flpdb ={
         "name" : "MAKE POP/ROCK TRACK IN 12 MINUTES [FL STUDIO]",
         "flp" : "http://contoso.com"
     },
-    "o5tovCGo8DM" : {
-        "name" : "Producing An EDM Drop (Start To Finish)",
-        "flp" : "http://google.com"
-    },
     "p0VcC43OUzo" : { 
         "name" : "HOW TO MAKE HAPPY PROGRESSIVE HOUSE IN 5 MINUTES",
         "flp" : "U2FsdGVkX1/wRVI3QAU12Wc6+1nB1QY4PhpMXPKS+gjtk/bcfvPK9dXtQVpHoL9sNFWZNkXL2VeA5m55jJHeA61K8hKxh9LsSKSG9JKEoqSGkhTeKdUMKlmZ6uTtQlE+FG+4NJLF8JEyf26wLwXckg=="
