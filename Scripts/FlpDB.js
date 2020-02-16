@@ -56,6 +56,10 @@ var flpdb ={
     "PM4Zbrh4-RM"{
         "name":"OSHEEN - BREAK [FREE FLP]",
         "flp":"U2FsdGVkX18sgjZeu0CWvSkHYGwe4zXqI4nutZQV+ihG7z5fsE6Mnyt3VHhoWMXIFJz9vGN7JEJ5TsL+ieSL4wKlbjSDFy5l/uK7LgboZwVp37wjknVVgudeLnFCo7zEhz6cqAluk9IISOAwEpLA1Q=="
+    },
+    "PJSx2OmM7gc"{
+        "name":"MAKE LEGENDARY MUSIC IN 7 MINUTES [FL STUDIO]",
+        "U2FsdGVkX18IyOJF9zX4zE0SfdWEwao1jp76te0zm8dRSJH/V56+bJwmCB27w4HT/p4+AteKXlhj3/YtucYJUKv/yC2UU9E8lRJRAu7vgfcZiyXYVq8FldXelIm9MT43V+8QO4npYcvt7Czpbh89CQ=="
     }
 }
 
