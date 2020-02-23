@@ -56,6 +56,10 @@ var flpdb ={
     "PJSx2OmM7gc" : {
         "name":"MAKE LEGENDARY MUSIC IN 7 MINUTES [FL STUDIO]",
         "flp":"U2FsdGVkX18IyOJF9zX4zE0SfdWEwao1jp76te0zm8dRSJH/V56+bJwmCB27w4HT/p4+AteKXlhj3/YtucYJUKv/yC2UU9E8lRJRAu7vgfcZiyXYVq8FldXelIm9MT43V+8QO4npYcvt7Czpbh89CQ=="
+    },
+    "nHCY09dboDM" : {
+        "name":"SUMMER FUTURE BASS IN 7 MINUTES [FL STUDIO]",
+        "flp":"U2FsdGVkX19kOSC5/8NyQMhFzai+4CYn4TwSvrZ7ILkGZ2PpJc1XNNEjuk5eIxCJWnTNLUSqf+sTFNP4pTrXzQ47Mb4htTido58EQekK8NDvmMI6BFRGeaXEnL4OplbZCmxFUtCAvY53y5YFXh8O7g=="
     }
 }
 
