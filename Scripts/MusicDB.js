@@ -138,6 +138,16 @@ var musicdb=[
         "deezer" : "https://www.deezer.com/album/128877752",
         "apple" : "https://music.apple.com/us/album/bindings-single/1496905123?uo=4&app=music&at=1001lry3&ct=dashboard",
         "amazon" : "https://music.amazon.ca/albums/B0848L5WDT"
+    },
+    
+     { //15
+        "name" : "OSHEEN JAYJEN - FLYING",
+        "spotify" : "https://open.spotify.com/track/4djsP5dpNfqDH9qvgD45YB",
+        "google" : "https://play.google.com/store/music/album?id=Bz4swfqhkos2eskvpvoe55cyuke",
+        "youtube" : "https://www.youtube.com/watch?v=DElsMp9Mp2M",
+        "deezer" : "https://www.deezer.com/soon",
+        "apple" : "https://music.apple.com/us/album/flying/1463498480?i=1463498481&app=music&ign-mpt=uo%3D4",
+        "amazon" : "https://www.amazon.com/Flying-Osheen-JayJen/dp/B07RPTFG3D?tag=ton08-20"
     }
 
 
