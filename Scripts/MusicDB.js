@@ -69,6 +69,1482 @@ var musicdb=[
         "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
         "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
     },
+    
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+    
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+{ //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    v
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+   { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
+    { //8
+        "name" : "OSHEEN - LOOKING FOR YOU",
+        "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
+        "google" : "https://play.google.com/store/music/album/Osheen_Jovial?id=Bqzvj7t6qivvhfkaiajlhahlm7y",
+        "youtube" : "https://www.youtube.com/watch?v=Y0A82ShU2M0",
+        "deezer" : "https://www.deezer.com/album/80651482",
+        "apple" : "https://itunes.apple.com/us/album/jovial-single/1445313129?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07L22VDZ1/?tag=distrokid06-20"
+    },
+
+    { //9
+        "name" : "OSHEEN - GENIAL",
+        "spotify" : "https://open.spotify.com/album/5Go5WRyxWPTPP5rvrR1gQS",
+        "google" : "https://play.google.com/store/music/album/Osheen_Genial?id=B47jsgt2rungimrme322u376us4",
+        "youtube" : "https://www.youtube.com/watch?v=XPPralkZu0E",
+        "deezer" : "https://www.deezer.com/album/85920812",
+        "apple" : "https://itunes.apple.com/us/album/genial-single/1451252349?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07N87HN6H/?tag=distrokid06-20"
+    },
+
+    { //10
+        "name" : "OSHEEN - YOUNG",
+        "spotify" : "https://open.spotify.com/album/1Txu79nfFijMXq84CNIp25",
+        "google" : "https://play.google.com/store/music/album/Osheen_Young?id=Bcki34djkw6tf5z6o7pdaxjfvui",
+        "youtube" : "https://www.youtube.com/watch?v=kkW8TvQQQDA",
+        "deezer" : "https://www.deezer.com/album/86980632",
+        "apple" : "https://itunes.apple.com/us/album/young-single/1452778364?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
+    },
+
 
     { //8
         "name" : "OSHEEN - LOOKING FOR YOU",
