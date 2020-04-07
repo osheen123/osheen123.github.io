@@ -1154,7 +1154,6 @@ var musicdb=[
         "amazon" : "http://www.amazon.com/gp/product/B07NKB4Q2R/?tag=distrokid06-20"
     },
 
-    v
     { //8
         "name" : "OSHEEN - LOOKING FOR YOU",
         "spotify" : "https://open.spotify.com/album/5B2MSJ6GePCMEbRjLsWZMA",
