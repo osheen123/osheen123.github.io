@@ -28,39 +28,15 @@ b.keySize,b.ivSize);l.iv=d.iv;b=a.encrypt.call(this,b,c,d.key,l);b.mixIn(d);retu
 8&255]]^n[l[k&255]]},encryptBlock:function(a,b){this._doCryptBlock(a,b,this._keySchedule,t,r,w,v,l)},decryptBlock:function(a,c){var d=a[c+1];a[c+1]=a[c+3];a[c+3]=d;this._doCryptBlock(a,c,this._invKeySchedule,b,x,q,n,s);d=a[c+1];a[c+1]=a[c+3];a[c+3]=d},_doCryptBlock:function(a,b,c,d,e,j,l,f){for(var m=this._nRounds,g=a[b]^c[0],h=a[b+1]^c[1],k=a[b+2]^c[2],n=a[b+3]^c[3],p=4,r=1;r<m;r++)var q=d[g>>>24]^e[h>>>16&255]^j[k>>>8&255]^l[n&255]^c[p++],s=d[h>>>24]^e[k>>>16&255]^j[n>>>8&255]^l[g&255]^c[p++],t=
 d[k>>>24]^e[n>>>16&255]^j[g>>>8&255]^l[h&255]^c[p++],n=d[n>>>24]^e[g>>>16&255]^j[h>>>8&255]^l[k&255]^c[p++],g=q,h=s,k=t;q=(f[g>>>24]<<24|f[h>>>16&255]<<16|f[k>>>8&255]<<8|f[n&255])^c[p++];s=(f[h>>>24]<<24|f[k>>>16&255]<<16|f[n>>>8&255]<<8|f[g&255])^c[p++];t=(f[k>>>24]<<24|f[n>>>16&255]<<16|f[g>>>8&255]<<8|f[h&255])^c[p++];n=(f[n>>>24]<<24|f[g>>>16&255]<<16|f[h>>>8&255]<<8|f[k&255])^c[p++];a[b]=q;a[b+1]=s;a[b+2]=t;a[b+3]=n},keySize:8});u.AES=p._createHelper(d)})();
 
-var flpdb ={
-    "Alr19Aya2UQ" :{
-        "name" : "MAKE POP/ROCK TRACK IN 12 MINUTES [FL STUDIO]",
-        "flp" : "http://contoso.com"
-    },
-    "p0VcC43OUzo" : { 
-        "name" : "HOW TO MAKE HAPPY PROGRESSIVE HOUSE IN 5 MINUTES",
-        "flp" : "U2FsdGVkX1/wRVI3QAU12Wc6+1nB1QY4PhpMXPKS+gjtk/bcfvPK9dXtQVpHoL9sNFWZNkXL2VeA5m55jJHeA61K8hKxh9LsSKSG9JKEoqSGkhTeKdUMKlmZ6uTtQlE+FG+4NJLF8JEyf26wLwXckg=="
-    },
-    "gLh25POz0Qc":{
-        "name" : "HOW TO MAKE MELODIC DUBSTEP IN 5 MINUTES",
-        "flp" : "U2FsdGVkX1+Bj2uYMh4/ecfL3dbWatdtNH9sYl07O3/Ozlk8Ssv/agOFUX3zNZrcB4pnVPPfiJRdefzZS6cO7dcd20ZUjDQwofUvBy7hN7nCS5Mtpbc53QU/Cbqxp1BUqwHAzUZyONbzicNCPw5ZfA=="
-    },
-    "dp07sSzq0qA" : {
-        "name" : "OSHEEN - BINDINGS",
-        "flp" : "U2FsdGVkX18L5z9z6iB9RTJfV8baadJDtaxTRAHN8FzlC8cJyTsO2t1YEYyWpS3eF5YMcXBS54LHaFBa3QhWkJJ5CC2PaSZGhaT56UU37Tvq6pPI/9yehy7XvRP/ROQ+"
-    },
-    "9BxB_VbtGHc" : {
-        "name":"MAKE PROGRESSIVE HOUSE DROP IN 7 MINUTES [FL STUDIO]",
-        "flp":"U2FsdGVkX1/3ezywjFTA9ZDQF31bIBinsfscJGHvsh+gQ3yGkjT2W362yX9Vp7g3KR2JnFSSP2otp7KTYVnXzlGbfZCy9+PdcYSdxvCjAJhGhof7FG21WBPwST/JAGwS6TmNTVrzCuuT9hR9JmrZwQ=="
-    },
-    "PM4Zbrh4-RM" : {
-        "name":"OSHEEN - BREAK [FREE FLP]",
-        "flp":"U2FsdGVkX18sgjZeu0CWvSkHYGwe4zXqI4nutZQV+ihG7z5fsE6Mnyt3VHhoWMXIFJz9vGN7JEJ5TsL+ieSL4wKlbjSDFy5l/uK7LgboZwVp37wjknVVgudeLnFCo7zEhz6cqAluk9IISOAwEpLA1Q=="
-    },
-    "PJSx2OmM7gc" : {
-        "name":"MAKE LEGENDARY MUSIC IN 7 MINUTES [FL STUDIO]",
-        "flp":"U2FsdGVkX18IyOJF9zX4zE0SfdWEwao1jp76te0zm8dRSJH/V56+bJwmCB27w4HT/p4+AteKXlhj3/YtucYJUKv/yC2UU9E8lRJRAu7vgfcZiyXYVq8FldXelIm9MT43V+8QO4npYcvt7Czpbh89CQ=="
-    },
-    "nHCY09dboDM" : {
-        "name":"SUMMER FUTURE BASS IN 7 MINUTES [FL STUDIO]",
-        "flp":"U2FsdGVkX19kOSC5/8NyQMhFzai+4CYn4TwSvrZ7ILkGZ2PpJc1XNNEjuk5eIxCJWnTNLUSqf+sTFNP4pTrXzQ47Mb4htTido58EQekK8NDvmMI6BFRGeaXEnL4OplbZCmxFUtCAvY53y5YFXh8O7g=="
-    }
+var flpdb ={    
+    "p0VcC43OUzo" : {"name" : "HOW TO MAKE HAPPY PROGRESSIVE HOUSE IN 5 MINUTES","flp" : "U2FsdGVkX1/wRVI3QAU12Wc6+1nB1QY4PhpMXPKS+gjtk/bcfvPK9dXtQVpHoL9sNFWZNkXL2VeA5m55jJHeA61K8hKxh9LsSKSG9JKEoqSGkhTeKdUMKlmZ6uTtQlE+FG+4NJLF8JEyf26wLwXckg=="},
+    "gLh25POz0Qc" : {"name" : "HOW TO MAKE MELODIC DUBSTEP IN 5 MINUTES","flp" : "U2FsdGVkX1+Bj2uYMh4/ecfL3dbWatdtNH9sYl07O3/Ozlk8Ssv/agOFUX3zNZrcB4pnVPPfiJRdefzZS6cO7dcd20ZUjDQwofUvBy7hN7nCS5Mtpbc53QU/Cbqxp1BUqwHAzUZyONbzicNCPw5ZfA=="},
+    "dp07sSzq0qA" : {"name" : "OSHEEN - BINDINGS","flp" : "U2FsdGVkX18L5z9z6iB9RTJfV8baadJDtaxTRAHN8FzlC8cJyTsO2t1YEYyWpS3eF5YMcXBS54LHaFBa3QhWkJJ5CC2PaSZGhaT56UU37Tvq6pPI/9yehy7XvRP/ROQ+"},
+    "9BxB_VbtGHc" : {"name":"MAKE PROGRESSIVE HOUSE DROP IN 7 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1/3ezywjFTA9ZDQF31bIBinsfscJGHvsh+gQ3yGkjT2W362yX9Vp7g3KR2JnFSSP2otp7KTYVnXzlGbfZCy9+PdcYSdxvCjAJhGhof7FG21WBPwST/JAGwS6TmNTVrzCuuT9hR9JmrZwQ=="},
+    "PM4Zbrh4-RM" : {"name":"OSHEEN - BREAK [FREE FLP]","flp":"U2FsdGVkX18sgjZeu0CWvSkHYGwe4zXqI4nutZQV+ihG7z5fsE6Mnyt3VHhoWMXIFJz9vGN7JEJ5TsL+ieSL4wKlbjSDFy5l/uK7LgboZwVp37wjknVVgudeLnFCo7zEhz6cqAluk9IISOAwEpLA1Q=="},
+    "PJSx2OmM7gc" : {"name":"MAKE LEGENDARY MUSIC IN 7 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18IyOJF9zX4zE0SfdWEwao1jp76te0zm8dRSJH/V56+bJwmCB27w4HT/p4+AteKXlhj3/YtucYJUKv/yC2UU9E8lRJRAu7vgfcZiyXYVq8FldXelIm9MT43V+8QO4npYcvt7Czpbh89CQ=="},
+    "nHCY09dboDM" : {"name":"SUMMER FUTURE BASS IN 7 MINUTES [FL STUDIO]","flp":"U2FsdGVkX19kOSC5/8NyQMhFzai+4CYn4TwSvrZ7ILkGZ2PpJc1XNNEjuk5eIxCJWnTNLUSqf+sTFNP4pTrXzQ47Mb4htTido58EQekK8NDvmMI6BFRGeaXEnL4OplbZCmxFUtCAvY53y5YFXh8O7g=="},
+    "TyheqXx8zQ8" : {"name":"MAKE A KYGO DROP IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18UZo3Qgy9MLjeyauevkGxw284hG/nMnGEuTb54kfOIrGj4jYvsaOJQ8+mP3cqjOrR9WatPWWaoepArstf0wZy3ag/Xz7OhuiqCAKjTgI1g9W9URFPasZFgnIgjHYFLiHvdChW7xIE7Vg=="}    
 }
 
 var yt=0;
