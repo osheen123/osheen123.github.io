@@ -29,7 +29,7 @@ b.keySize,b.ivSize);l.iv=d.iv;b=a.encrypt.call(this,b,c,d.key,l);b.mixIn(d);retu
 d[k>>>24]^e[n>>>16&255]^j[g>>>8&255]^l[h&255]^c[p++],n=d[n>>>24]^e[g>>>16&255]^j[h>>>8&255]^l[k&255]^c[p++],g=q,h=s,k=t;q=(f[g>>>24]<<24|f[h>>>16&255]<<16|f[k>>>8&255]<<8|f[n&255])^c[p++];s=(f[h>>>24]<<24|f[k>>>16&255]<<16|f[n>>>8&255]<<8|f[g&255])^c[p++];t=(f[k>>>24]<<24|f[n>>>16&255]<<16|f[g>>>8&255]<<8|f[h&255])^c[p++];n=(f[n>>>24]<<24|f[g>>>16&255]<<16|f[h>>>8&255]<<8|f[k&255])^c[p++];a[b]=q;a[b+1]=s;a[b+2]=t;a[b+3]=n},keySize:8});u.AES=p._createHelper(d)})();
 
 
-var baseAPI='https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=12&playlistId=UUwafG7DfOibd4Ou5926puFQ&key=';
+var baseAPI='https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=12&playlistId=PLkQSKKYR60hAGSfoImqOLuEYr-80yyECP&key=';
 
 var pageToken="0";
 var scrolltokenarray=[]
