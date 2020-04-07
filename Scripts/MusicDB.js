@@ -148,10 +148,38 @@ var musicdb=[
         "deezer" : "https://www.deezer.com/soon",
         "apple" : "https://music.apple.com/us/album/flying/1463498480?i=1463498481&app=music&ign-mpt=uo%3D4",
         "amazon" : "https://www.amazon.com/Flying-Osheen-JayJen/dp/B07RPTFG3D?tag=ton08-20"
-    }
-
-
+    },
     
+    { //16
+        "name" : "OSHEEN - SAND AND SUN",
+        "spotify" : "https://open.spotify.com/album/0kJDNp99RN5kMy2MLkNlto",
+        "google" : "https://play.google.com/store/music/album?id=Bz4swfqhkos2eskvpvoe55cyuke",
+        "youtube" : "https://www.youtube.com/watch?v=UxbAJcbZJCw",
+        "deezer" : "https://www.deezer.com/album/131994872",
+        "apple" : "https://music.apple.com/us/album/sand-and-sun-single/1499227420?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "https://www.amazon.com/Flying-Osheen-JayJen/dp/B07RPTFG3D?tag=ton08-20"
+    },
+    
+    { //17
+        "name" : "OSHEEN - BREEZE",
+        "spotify" : "https://open.spotify.com/album/7dEmBY8nzj44iL8MJAsUyV",
+        "google" : "https://play.google.com/store/music/album?id=Bz4swfqhkos2eskvpvoe55cyuke",
+        "youtube" : "https://www.youtube.com/watch?v=DlZZjkWib50",
+        "deezer" : "https://www.deezer.com/album/131994872",
+        "apple" : "https://music.apple.com/us/album/breeze-single/1500166736?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "https://www.amazon.com/Flying-Osheen-JayJen/dp/B07RPTFG3D?tag=ton08-20"
+    },
+    
+    { //18
+        "name" : "OSHEEN - AKIMBO",
+        "spotify" : "https://open.spotify.com/album/4YzlZ0Ixz0G1oaiibSGhet",
+        "google" : "https://play.google.com/store/music/album/Osheen_Akimbo?id=Bwr3tbotxqp63v44g5cyatphgne",
+        "youtube" : "https://www.youtube.com/watch?v=sjWBVDxwkcc",
+        "deezer" : "https://www.deezer.com/album/131994872",
+        "apple" : "https://music.apple.com/us/album/akimbo-single/1503070849?uo=4&app=music&at=1001lry3&ct=dashboard",
+        "amazon" : "https://www.amazon.com/Flying-Osheen-JayJen/dp/B07RPTFG3D?tag=ton08-20"
+    }
+   
 ];
 
 
