@@ -28,7 +28,8 @@ b.keySize,b.ivSize);l.iv=d.iv;b=a.encrypt.call(this,b,c,d.key,l);b.mixIn(d);retu
 8&255]]^n[l[k&255]]},encryptBlock:function(a,b){this._doCryptBlock(a,b,this._keySchedule,t,r,w,v,l)},decryptBlock:function(a,c){var d=a[c+1];a[c+1]=a[c+3];a[c+3]=d;this._doCryptBlock(a,c,this._invKeySchedule,b,x,q,n,s);d=a[c+1];a[c+1]=a[c+3];a[c+3]=d},_doCryptBlock:function(a,b,c,d,e,j,l,f){for(var m=this._nRounds,g=a[b]^c[0],h=a[b+1]^c[1],k=a[b+2]^c[2],n=a[b+3]^c[3],p=4,r=1;r<m;r++)var q=d[g>>>24]^e[h>>>16&255]^j[k>>>8&255]^l[n&255]^c[p++],s=d[h>>>24]^e[k>>>16&255]^j[n>>>8&255]^l[g&255]^c[p++],t=
 d[k>>>24]^e[n>>>16&255]^j[g>>>8&255]^l[h&255]^c[p++],n=d[n>>>24]^e[g>>>16&255]^j[h>>>8&255]^l[k&255]^c[p++],g=q,h=s,k=t;q=(f[g>>>24]<<24|f[h>>>16&255]<<16|f[k>>>8&255]<<8|f[n&255])^c[p++];s=(f[h>>>24]<<24|f[k>>>16&255]<<16|f[n>>>8&255]<<8|f[g&255])^c[p++];t=(f[k>>>24]<<24|f[n>>>16&255]<<16|f[g>>>8&255]<<8|f[h&255])^c[p++];n=(f[n>>>24]<<24|f[g>>>16&255]<<16|f[h>>>8&255]<<8|f[k&255])^c[p++];a[b]=q;a[b+1]=s;a[b+2]=t;a[b+3]=n},keySize:8});u.AES=p._createHelper(d)})();
 
-var flpdb ={    
+var flpdb ={
+    /*2017*/    
     "p0VcC43OUzo" : {"name" : "HOW TO MAKE HAPPY PROGRESSIVE HOUSE IN 5 MINUTES","flp" : "U2FsdGVkX1/wRVI3QAU12Wc6+1nB1QY4PhpMXPKS+gjtk/bcfvPK9dXtQVpHoL9sNFWZNkXL2VeA5m55jJHeA61K8hKxh9LsSKSG9JKEoqSGkhTeKdUMKlmZ6uTtQlE+FG+4NJLF8JEyf26wLwXckg=="},
     "gLh25POz0Qc" : {"name" : "HOW TO MAKE MELODIC DUBSTEP IN 5 MINUTES","flp" : "U2FsdGVkX1+Bj2uYMh4/ecfL3dbWatdtNH9sYl07O3/Ozlk8Ssv/agOFUX3zNZrcB4pnVPPfiJRdefzZS6cO7dcd20ZUjDQwofUvBy7hN7nCS5Mtpbc53QU/Cbqxp1BUqwHAzUZyONbzicNCPw5ZfA=="},
     "dp07sSzq0qA" : {"name" : "OSHEEN - BINDINGS","flp" : "U2FsdGVkX18L5z9z6iB9RTJfV8baadJDtaxTRAHN8FzlC8cJyTsO2t1YEYyWpS3eF5YMcXBS54LHaFBa3QhWkJJ5CC2PaSZGhaT56UU37Tvq6pPI/9yehy7XvRP/ROQ+"},
@@ -43,9 +44,17 @@ var flpdb ={
     "TQQ22FG82BY" : {"name":"MAKE A SAD SONG IN 2 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1/4hNn2q+ozHpUv8mDmzSeUOHyUBqR2w6DppRKVf1rVSvRKH+f8h6dCw0qoutuaNTSAwcet4eSYlMrlZRjt9WIR8B6xf/XD4nsbw0+RWlHJMnl8gfSDH47u"},
     "Nu6tTqabWmg" : {"name":"TITANIC THEME (ORCHESTRA) USING REFX NEXUS [FL STUDIO]","flp":"U2FsdGVkX1/ZzGMyI8966JQwqKIrWa0ZYizgNlrvshnlju5F9Fg6Ec1tbXpSiOXjlENwrk2jWmL9X2wOp0rKyznltOOQJ6JWYCN8PF5sq/pCK2k6kU2qu+TApm6PR22X"},
     "cTFr5DCi3sw" : {"name":"MAKE A DANCE TRACK IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1/0RD4AIP7CZzu8tDfYGIlKySBRIhrAle/gLA20otqlmNbuQiie3uartrOpTgrsiFmPUxPYPRIsWq/wTn5RrFRcgPb//5Jr1fWjnrN2WEH8BuiF+1CaQKl/"},
+    "1QVTeX-PtO8" : {"name":"IN 5 MINUTES - ROCKSTAR - Post Malone (feat. 21 Savage)","flp":"U2FsdGVkX1/HuQxFmiKbAzAbgfff+YOdxy/3kyolIvfD2KRvo2BgSo24WsxISy8gcOuBT/FwAdmM29qjGTbWjdioh5WHk4DJBbcNkIQTvg8saQZNIMUVEdfLK0UImere"},
+    "R_j79MGjlNo" : {"name":"MAKE MELBOURNE BOUNCE DROP IN 2 MINUTES [FL STUDIO]","flp":"U2FsdGVkX19A9kiS4EOWpkW2CVhCbyWHEEstXHtumbtsvyELEhy0bdr7V25OxDYePIQbwcOMjH+jB6t2M/9UcUuJUoqQb+3s0ZMfOEFzEcBNpbzSaPMhHw7sdihGP8C9"},
+    "XQnb8-fGzwY" : {"name":"MAKE EPIC MUSIC IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1+vB/SvYBfOM1IpHWkIvitXQZY6/CDNDCE6GSskC6r6+4pH/Q0kbXsdRmSdyS4fHfPV/q4dbOFe96Hz6YiYKEXKaqLKUjQzp8pgC9+1rr2VZc96k+F0eRxFB9qMmM1IAqz5jJZ652UlNg=="},
+    "synthwavesample" : {"name":"Synthwave Sample Pack","flp":"U2FsdGVkX19aokMy6Q2MBrOMYsiJsx+mPcRqizAAd70MzL9PkMpAiO5nL3ERYjr5s45vDBLGD/+HU1uRTUePApuwkrUjvbjMVl84pDLKufxjoUyBNY1AJfgSxLUQ7R+GRE/9HWu4WUy6KS9klPJb8QdEAP5dKRDcdq8d3SlfmzQ="},
+    "s7w5DeK3enY" : {"name":"80's RETRO SYNTHWAVE IN 5 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18SkrvMT8h1O4pErCExrkCLCX7LEqNsaqkz+4f/NW7AA6GiYt2lCvsz/8RIaG62+SOQDeG2St+El5YsOj1y2JdMjroRmmkkp7Ek2wdcNd0hL3uIk6zdQGS7"},
+    "wNT5jls7OTQ" : {"name":"MAKE MELODIC HOUSE DROP IN 2 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18FjyevdfwiQa2WE/Qqk5+TADBueNRFtLwBZ4jaubpANzYuqa58DHtOZZqESlO8Laxk9/9IxHSWM7vh9e5mSLJm+nmF2IK9FKYYXSyThecvgTjd8R8Ihy7x"},
+    "olDn17McgG0" : {"name":"MAKE PROGRESSIVE HOUSE IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX195ZXyfU7IAxieaqO6yyxRAsOxPLK1boD7mZBF4FhMBrwrMYHvCGNs20qZzxWms3oR4ohgHk37AEtA1oc1VK82Y0ryY/1DKJOPkKdt+kesWRSR4a9CZtEeW"},
+    /*2018*/
+    "30HELd_Z8wU" : {"name":"MAKE ALAN WALKER TRACK IN 4 MINUTES - [FL STUDIO]","flp":"U2FsdGVkX1+4Z4ozHpqP/+lVQ/qAaQujhjsrYY668EHhyhXn78bPMw/kCMs3231DYwgCi5XImaiWqZJmo/DxPNSUFGFFB2AKQm2reHp/f7R6UhueAkZalmcLpke2dB3g"},
+    "Yc9hhjrT_XI" : {"name":"HOW TO MAKE 'AVICII' STYLE MUSIC IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18pVqRMacbzEWYiTN6wswvhspdVsKoH57OcjP5CMBT+/GGf7+cJ/GDJhdMMh1bXhD7qB9agve2BZYQCZDsZYH6APRr/bTTxAsaS/LmuZe9jEHByzJUL6ZGR"},
     
-
-
     "end" : {"name":"end","flp":"end"}
 }
 
