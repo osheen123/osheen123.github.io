@@ -54,6 +54,11 @@ var flpdb ={
     /*2018*/
     "30HELd_Z8wU" : {"name":"MAKE ALAN WALKER TRACK IN 4 MINUTES - [FL STUDIO]","flp":"U2FsdGVkX1+4Z4ozHpqP/+lVQ/qAaQujhjsrYY668EHhyhXn78bPMw/kCMs3231DYwgCi5XImaiWqZJmo/DxPNSUFGFFB2AKQm2reHp/f7R6UhueAkZalmcLpke2dB3g"},
     "Yc9hhjrT_XI" : {"name":"HOW TO MAKE 'AVICII' STYLE MUSIC IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18pVqRMacbzEWYiTN6wswvhspdVsKoH57OcjP5CMBT+/GGf7+cJ/GDJhdMMh1bXhD7qB9agve2BZYQCZDsZYH6APRr/bTTxAsaS/LmuZe9jEHByzJUL6ZGR"},
+    "a_5tPydb58s" : {"name":"MAKE AN ACOUSTIC SONG IN 4 MINUTES [FL STUDIO]","flp":"U2FsdGVkX187V7wy5JIh5ZfJ3XcOk+iZEFia8UM0s3CRqLJweAbHQ3SrOKnUXTAuKrRCz8GYyA9hWrfxxQhrTiXDbRWvquczwvLJLf7XqyR0z3JEsne+s1KlUN46fTUR"},
+    "A_V-IDqbJYQ" : {"name":"FUTURE HOUSE DROP IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1+/IFXbUqll9BJqlsUoq/xUNU81y7Xd52epKOs4O48GLieGlPXHaNu7E4FhNVUm8iowBTxAczpf04q8fegVn521+Xglu40DFesbOFA/5lEr12qMD7IbioP3"},
+    "wOroPv_kjyU" : {"name":"MAKE TROPICAL HOUSE IN 5 MINUTES [FL STUDIO 20]","flp":"U2FsdGVkX19Q5UUmYYC+OgD+qLXOPsXoQWOraJUYVnxT8zWDM7WvFY8Tco1RfDvtIq3Qhd+c/vuqchZsNfk6eGNkOdhyDVpDrNuTI6Py8j1e/vZ/Jj8Ext2E/mediDr3"},
+    "YInXICwRIsw" : {"name":"MAKE PROGRESSIVE HOUSE IN 5 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1/HtQkKwoQGTZ2061y/jAvAuiQiXUKAH/W2lsFxFjcroThN3eUY9Absx3lP/NwsV2w7xMBMQnknN62QHAYAGGMcvG9hhjMsRmgdj/9MVPK1BxhZCxkML+Q/"},
+       
     
     "end" : {"name":"end","flp":"end"}
 }
