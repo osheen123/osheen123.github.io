@@ -143,8 +143,8 @@ function enable(){
     if(ins+yt+fb+dcord==4){
         $("#downloadText").text("DOWNLOAD FLP")
         $("#downloadButton").css("background","#000000")
-        $("#append1").append('<h6><b>Since all these projects are free downloads, consider supporting me on PAYPAL (optional). Please check the FLP usage guidelines as well. </b></h6>')
-        $("#append2").append('<a href="https://paypal.me/osheenyt"><div style="cursor: pointer;  padding: 10px; background: #0070ba;" class="text"><b>PAYPAL</b></div></a><a href="/usage"><div style="cursor: pointer;  background: #4d576b; padding: 10px;" class="text"><b>USAGE</b></div></a>')
+        $("#append1").append('<h6><b>Since all these projects are free downloads, consider supporting me on PAYPAL or PAYTM (optional). Please check the FLP usage guidelines as well. </b></h6>')
+        $("#append2").append('<a href="https://paypal.me/osheenyt"><div style="cursor: pointer;  padding: 10px; background: #0070ba;" class="text"><b>PAYPAL (FOR EVERYONE)</b></div></a><a href="/paytmkaro.html"><div style="cursor: pointer;  background: #00B9F1; padding: 10px;" class="text"><b>PAYTM (FOR INDIA ONLY)</b></div></a>')
     }    
 }
 
