@@ -29,7 +29,7 @@ b.keySize,b.ivSize);l.iv=d.iv;b=a.encrypt.call(this,b,c,d.key,l);b.mixIn(d);retu
 d[k>>>24]^e[n>>>16&255]^j[g>>>8&255]^l[h&255]^c[p++],n=d[n>>>24]^e[g>>>16&255]^j[h>>>8&255]^l[k&255]^c[p++],g=q,h=s,k=t;q=(f[g>>>24]<<24|f[h>>>16&255]<<16|f[k>>>8&255]<<8|f[n&255])^c[p++];s=(f[h>>>24]<<24|f[k>>>16&255]<<16|f[n>>>8&255]<<8|f[g&255])^c[p++];t=(f[k>>>24]<<24|f[n>>>16&255]<<16|f[g>>>8&255]<<8|f[h&255])^c[p++];n=(f[n>>>24]<<24|f[g>>>16&255]<<16|f[h>>>8&255]<<8|f[k&255])^c[p++];a[b]=q;a[b+1]=s;a[b+2]=t;a[b+3]=n},keySize:8});u.AES=p._createHelper(d)})();
 
 var flpdb ={
-    /*2017*/    
+    /*misc*/    
     "p0VcC43OUzo" : {"name" : "HOW TO MAKE HAPPY PROGRESSIVE HOUSE IN 5 MINUTES","flp" : "U2FsdGVkX1/wRVI3QAU12Wc6+1nB1QY4PhpMXPKS+gjtk/bcfvPK9dXtQVpHoL9sNFWZNkXL2VeA5m55jJHeA61K8hKxh9LsSKSG9JKEoqSGkhTeKdUMKlmZ6uTtQlE+FG+4NJLF8JEyf26wLwXckg=="},
     "gLh25POz0Qc" : {"name" : "HOW TO MAKE MELODIC DUBSTEP IN 5 MINUTES","flp" : "U2FsdGVkX1+Bj2uYMh4/ecfL3dbWatdtNH9sYl07O3/Ozlk8Ssv/agOFUX3zNZrcB4pnVPPfiJRdefzZS6cO7dcd20ZUjDQwofUvBy7hN7nCS5Mtpbc53QU/Cbqxp1BUqwHAzUZyONbzicNCPw5ZfA=="},
     "dp07sSzq0qA" : {"name" : "OSHEEN - BINDINGS","flp" : "U2FsdGVkX18L5z9z6iB9RTJfV8baadJDtaxTRAHN8FzlC8cJyTsO2t1YEYyWpS3eF5YMcXBS54LHaFBa3QhWkJJ5CC2PaSZGhaT56UU37Tvq6pPI/9yehy7XvRP/ROQ+"},
@@ -37,6 +37,7 @@ var flpdb ={
     "PM4Zbrh4-RM" : {"name":"OSHEEN - BREAK [FREE FLP]","flp":"U2FsdGVkX18sgjZeu0CWvSkHYGwe4zXqI4nutZQV+ihG7z5fsE6Mnyt3VHhoWMXIFJz9vGN7JEJ5TsL+ieSL4wKlbjSDFy5l/uK7LgboZwVp37wjknVVgudeLnFCo7zEhz6cqAluk9IISOAwEpLA1Q=="},
     "PJSx2OmM7gc" : {"name":"MAKE LEGENDARY MUSIC IN 7 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18IyOJF9zX4zE0SfdWEwao1jp76te0zm8dRSJH/V56+bJwmCB27w4HT/p4+AteKXlhj3/YtucYJUKv/yC2UU9E8lRJRAu7vgfcZiyXYVq8FldXelIm9MT43V+8QO4npYcvt7Czpbh89CQ=="},
     "nHCY09dboDM" : {"name":"SUMMER FUTURE BASS IN 7 MINUTES [FL STUDIO]","flp":"U2FsdGVkX19kOSC5/8NyQMhFzai+4CYn4TwSvrZ7ILkGZ2PpJc1XNNEjuk5eIxCJWnTNLUSqf+sTFNP4pTrXzQ47Mb4htTido58EQekK8NDvmMI6BFRGeaXEnL4OplbZCmxFUtCAvY53y5YFXh8O7g=="},
+    /*2017*/
     "TyheqXx8zQ8" : {"name":"MAKE A KYGO DROP IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18UZo3Qgy9MLjeyauevkGxw284hG/nMnGEuTb54kfOIrGj4jYvsaOJQ8+mP3cqjOrR9WatPWWaoepArstf0wZy3ag/Xz7OhuiqCAKjTgI1g9W9URFPasZFgnIgjHYFLiHvdChW7xIE7Vg=="},
     "ZOnp_ZIHMxc" : {"name":"MAKE AN AVICII DROP IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX19jeOGS+jXDgdNS2S+Iq5GpiUllyrk19+H9ey9+h0rPyM1Gn9oRY8X/jyGJYzGdm6rkL4dRl/eQtasF3TkNjmGkav8LC1AyLZyDeg/hcv1Vk0IQ8fMUsewU"},
     "h0d6u8u6WwA" : {"name":"MARTIN GARRIX PLUCKS IN 1 MINUTE [FL STUDIO]","flp":"U2FsdGVkX1/zrCogYvoWl7EBQLn68IX4wOQpsACyIpghxGEbNGFrGT434MkW3lf9MXvX4S9uoW1DzV0jBXfG+2MUjmGtMyHDsOy03m6JypEFOWLKmq2uLs8wZpb8M8L6Q8+BLwjWWXg9MISOj7eCiw=="},
@@ -47,7 +48,7 @@ var flpdb ={
     "1QVTeX-PtO8" : {"name":"IN 5 MINUTES - ROCKSTAR - Post Malone (feat. 21 Savage)","flp":"U2FsdGVkX1/HuQxFmiKbAzAbgfff+YOdxy/3kyolIvfD2KRvo2BgSo24WsxISy8gcOuBT/FwAdmM29qjGTbWjdioh5WHk4DJBbcNkIQTvg8saQZNIMUVEdfLK0UImere"},
     "R_j79MGjlNo" : {"name":"MAKE MELBOURNE BOUNCE DROP IN 2 MINUTES [FL STUDIO]","flp":"U2FsdGVkX19A9kiS4EOWpkW2CVhCbyWHEEstXHtumbtsvyELEhy0bdr7V25OxDYePIQbwcOMjH+jB6t2M/9UcUuJUoqQb+3s0ZMfOEFzEcBNpbzSaPMhHw7sdihGP8C9"},
     "XQnb8-fGzwY" : {"name":"MAKE EPIC MUSIC IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1+vB/SvYBfOM1IpHWkIvitXQZY6/CDNDCE6GSskC6r6+4pH/Q0kbXsdRmSdyS4fHfPV/q4dbOFe96Hz6YiYKEXKaqLKUjQzp8pgC9+1rr2VZc96k+F0eRxFB9qMmM1IAqz5jJZ652UlNg=="},
-    "synthwavesample" : {"name":"Synthwave Sample Pack","flp":"U2FsdGVkX19aokMy6Q2MBrOMYsiJsx+mPcRqizAAd70MzL9PkMpAiO5nL3ERYjr5s45vDBLGD/+HU1uRTUePApuwkrUjvbjMVl84pDLKufxjoUyBNY1AJfgSxLUQ7R+GRE/9HWu4WUy6KS9klPJb8QdEAP5dKRDcdq8d3SlfmzQ="},
+    /*synthSample*/"synthwavesample" : {"name":"Synthwave Sample Pack","flp":"U2FsdGVkX19aokMy6Q2MBrOMYsiJsx+mPcRqizAAd70MzL9PkMpAiO5nL3ERYjr5s45vDBLGD/+HU1uRTUePApuwkrUjvbjMVl84pDLKufxjoUyBNY1AJfgSxLUQ7R+GRE/9HWu4WUy6KS9klPJb8QdEAP5dKRDcdq8d3SlfmzQ="},
     "s7w5DeK3enY" : {"name":"80's RETRO SYNTHWAVE IN 5 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18SkrvMT8h1O4pErCExrkCLCX7LEqNsaqkz+4f/NW7AA6GiYt2lCvsz/8RIaG62+SOQDeG2St+El5YsOj1y2JdMjroRmmkkp7Ek2wdcNd0hL3uIk6zdQGS7"},
     "wNT5jls7OTQ" : {"name":"MAKE MELODIC HOUSE DROP IN 2 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18FjyevdfwiQa2WE/Qqk5+TADBueNRFtLwBZ4jaubpANzYuqa58DHtOZZqESlO8Laxk9/9IxHSWM7vh9e5mSLJm+nmF2IK9FKYYXSyThecvgTjd8R8Ihy7x"},
     "olDn17McgG0" : {"name":"MAKE PROGRESSIVE HOUSE IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX195ZXyfU7IAxieaqO6yyxRAsOxPLK1boD7mZBF4FhMBrwrMYHvCGNs20qZzxWms3oR4ohgHk37AEtA1oc1VK82Y0ryY/1DKJOPkKdt+kesWRSR4a9CZtEeW"},
@@ -58,7 +59,12 @@ var flpdb ={
     "A_V-IDqbJYQ" : {"name":"FUTURE HOUSE DROP IN 3 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1+/IFXbUqll9BJqlsUoq/xUNU81y7Xd52epKOs4O48GLieGlPXHaNu7E4FhNVUm8iowBTxAczpf04q8fegVn521+Xglu40DFesbOFA/5lEr12qMD7IbioP3"},
     "wOroPv_kjyU" : {"name":"MAKE TROPICAL HOUSE IN 5 MINUTES [FL STUDIO 20]","flp":"U2FsdGVkX19Q5UUmYYC+OgD+qLXOPsXoQWOraJUYVnxT8zWDM7WvFY8Tco1RfDvtIq3Qhd+c/vuqchZsNfk6eGNkOdhyDVpDrNuTI6Py8j1e/vZ/Jj8Ext2E/mediDr3"},
     "YInXICwRIsw" : {"name":"MAKE PROGRESSIVE HOUSE IN 5 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1/HtQkKwoQGTZ2061y/jAvAuiQiXUKAH/W2lsFxFjcroThN3eUY9Absx3lP/NwsV2w7xMBMQnknN62QHAYAGGMcvG9hhjMsRmgdj/9MVPK1BxhZCxkML+Q/"},
-       
+    "K-Oa1S_WryI" : {"name":"MAKE DEEP MELODIC HOUSE IN 5 MINUTES [FL STUDIO]","flp":"U2FsdGVkX18Qefah+dfqrQuGPZha1MR9J+v8biqViB/bVj2g2FSwVl7vJ72Et1c6r7qzwJkdW52kfsMUjfY6qvGw0NXHxB5Z/zd9SFwNvrMEPrRjp72qt4hQe7/w1gAf"},
+    "XPPralkZu0E" : {"name":"OSHEEN - GENIAL","flp":"U2FsdGVkX18EsK7EWM21scTX4In+afUbhySYpv6q0KImDRNoRVlgnGxd0tFbHovJK2PacaBStog4QncolWbaaQEDLlPReoIU2RuxNbeVZnz+TmTOQtq31+hQWjncbnaW"},
+    "srfsuhyAaFY" : {"name":"MAKE EDM LIKE KSHMR IN 3 MINUTES - [FL STUDIO]","flp":"U2FsdGVkX18FsnaRynsN9U00VP1g5kQCe7iBvVI247hqRMVCMrhA2MjnaBS6nuFGHMg8I1z0aHCalYS7lT2Pr98a8kHD1y1DFbZmF1MUfAa9MCzjchRkRsARrf5WxYyG"},
+    
+    /*2019*/   
+    "fddZg4Mlq_c" : {"name":"MAKE SUPER HERO MUSIC IN 5 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1+E5faJGLV5zvGdnj5yx7gBO37a886ROuiSQ1Fy9EuYW3+XRLWvw761p7KUeMglAS2HhJDraXJQyG+vvUSSsCHsU2WG8nFt/LsoqzlcSuxHM1HdQb/1l9wP"},
     
     "end" : {"name":"end","flp":"end"}
 }
