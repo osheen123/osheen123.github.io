@@ -178,6 +178,16 @@ var musicdb=[
         "deezer" : "https://www.deezer.com/album/131994872",
         "apple" : "https://music.apple.com/us/album/akimbo-single/1503070849?uo=4&app=music&at=1001lry3&ct=dashboard",
         "amazon" : "https://www.amazon.com/Flying-Osheen-JayJen/dp/B07RPTFG3D?tag=ton08-20"
+    },
+    
+    { //19
+        "name" : "HOLIDAY",
+        "spotify" : "https://open.spotify.com/album/6KnDvwRBH9rmjZXYTzEnym",
+        "google" : "https://play.google.com/store/music/album?id=Bdqwi36leac7uctk5dgza6h2r2a&tid=song-Tknxcm56px3necj3ijki7d4ifbi",
+        "youtube" : "https://www.youtube.com/watch?v=M-iqVvJsK50&t=45s",
+        "deezer" : "https://www.deezer.com/album/soon",
+        "apple" : "https://music.apple.com/in/album/holiday-single/1510647603?at=1001lbRT&ct=466292",
+        "amazon" : "https://www.amazon.com/dp/B087THK2CK?tag=ton08-20"
     }
    
 ];
