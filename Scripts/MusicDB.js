@@ -188,6 +188,16 @@ var musicdb=[
         "deezer" : "https://www.deezer.com/album/soon",
         "apple" : "https://music.apple.com/in/album/holiday-single/1510647603?at=1001lbRT&ct=466292",
         "amazon" : "https://www.amazon.com/dp/B087THK2CK?tag=ton08-20"
+    },
+    
+    { //20
+        "name" : "MOMENTS",
+        "spotify" : "https://open.spotify.com/album/30APhHYAAaBboahcaIhspL",
+        "google" : "https://play.google.com/store/music/album/Osheen_Moments?id=Blplkybucvi5k4sl6hrpargvjkm",
+        "youtube" : "https://www.youtube.com/watch?v=AL8fEiBYExo",
+        "deezer" : "https://www.deezer.com/album/152575652",
+        "apple" : "https://music.apple.com/us/album/moments-single/1516760219?uo=4&app=itunes&at=1001lry3&ct=dashboard",
+        "amazon" : "https://www.amazon.com/gp/product/B089N7NWPM"
     }
    
 ];
