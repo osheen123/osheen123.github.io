@@ -142,7 +142,7 @@ $("#instagramButton").click(function(){
     }    
 })
 
-$("#discordButton").click(function(){
+/*$("#discordButton").click(function(){
     if(dcord==0){
         var win = window.open('https://discordapp.com/invite/7Qp9Wzq', '_blank');
         win.focus();
@@ -152,13 +152,13 @@ $("#discordButton").click(function(){
         enable()
         }, 1000);                
     }    
-})
+})*/
 
 function enable(){
-    if(ins+yt+fb+dcord==4){
+    if(ins+yt+fb+dcord==3){
         $("#downloadText").text("DOWNLOAD FLP")
         $("#downloadButton").css("background","#000000")
-        $("#append1").append('<h6><b>Since all these projects are free downloads, consider supporting me on PAYPAL or PAYTM (optional). All your contibutions will support me hosting this website and making more tutorials/sample-packs for you people. </b></h6>')
+        $("#append1").append('<h6><b>Since all these projects are free downloads, consider supporting me on PAYPAL or PAYTM (This is an optional step, you can still download the FLP for free). All your contibutions will support me hosting this website and making more tutorials/sample-packs for you people. </b></h6>')
         $("#append2").append('<a href="https://paypal.me/osheenyt"><div style="cursor: pointer;  padding: 10px; background: #0070ba;" class="text"><b>PAYPAL (FOR EVERYONE)</b></div></a><a href="/paytmkaro.html"><div style="cursor: pointer;  background: #00B9F1; padding: 10px;" class="text"><b>PAYTM (FOR INDIA ONLY)</b></div></a>')
     }    
 }
