@@ -76,6 +76,10 @@ var flpdb ={
     "DAIaim4iw3E" : {"name":"HOW TO MAKE A FLUTE SONG","flp":"U2FsdGVkX1+J77gpHRDrlA/wViIOu1+OkeqbF1FO+KCwj8+4r+OfnD9aG38wFL5nltFioFNt4KybIlwIUV7wGAWM8ktcHZpgeWUdwk/3I2NwTMhxpyZO+B3r9zVr+NtieBXdh2cVdycjRAT3DpvW0w=="},
     "w6P4qdJOHoI" : {"name":"HOW TO MELODIC HOUSE WITH XYLOPHONE [FL STUDIO]","flp":"U2FsdGVkX1/qmZyPiXLZq8nRQXNIevnARmWRXQatDarB6ubS2xROP1TCX/bfyXkauPrIN9pNTmefu5byRcXPMdUTJlmQS/j7bvzfdWc2u5assB10D+0Ixn8Zl1dCmu4+D/8+zuVVFRGZw6uJ/nMrTw=="},
     "Jf9rjkZcALc" : {"name":"HOW TO MAKE A WHISTLE SONG","flp":"U2FsdGVkX1+uy1G2V+HO7BxR7dCGgpWNK3GnkU6vdqOZc7NBKgwNHzfFV6pSlnvm4Nnvk1+EfjbwJuwMjZw8wxii9uF3CJANrDnF2PYt8lVAMWhwutd0S3/y1mDs9FnbcfsI+m92pdATLRVeBHplMQ=="},
+    "YnEkexdh3L8" : {"name":"HOW TO MAKE VOCAL CHOPS LIKE KYGO","flp":"U2FsdGVkX188Wf/mek4bpaKFIwd0Y7EELEM/30iokP1+iFjbwCkUY6reOT3xnyXJPgeGr7cWSUSknlNpmtJY8uuEoKDTgZkXblhmewKJnXhe0KlOMD3h0HY/4pIVvZQy9KJb77XPPgBQZgIYBQvDqA=="},
+    "Av5MkTREHFE" : {"name":"HOW TO MAKE EMOTIONAL GUITAR SONG","flp":"U2FsdGVkX1/Z4Q8sGxKlQych4y29lCgztmQGKM10i1Yf8oTaUGra8zILJFerDUh7U9ALDK70v6O4o9M5UJjkGVdcdX6uO35MjFP34jtN/QS6aswUtA6jjsKAEuiPHLd4xtZMs2DQptgDU4YCM4N5Cg=="},
+    "xw72k-IQscI" : {"name":"HOW TO MAKE ROCK SONG IN FL STUDIO","flp":"U2FsdGVkX1/yVbCC7WDUKIumbEOIDhxi8CnvQ+AM30ovFK/H6B97ndzUW7gzFzK8llg+Ucsjvw4IyEjPwcWW8z55GGT47eN9FlytU8+Bhb1BD50PWdl/f2B9IHbmKRv1j7YAKAcYOQsio9R6p0SOjw=="},
+    
     
     "end" : {"name":"end","flp":"end"}
 }
