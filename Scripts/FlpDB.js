@@ -150,7 +150,7 @@ $("#instagramButton").click(function(){
 
 /*$("#discordButton").click(function(){
     if(dcord==0){
-        var win = window.open('https://discordapp.com/invite/7Qp9Wzq', '_blank');
+        var win = window.open('https://www.amazon.in/b?_encoding=UTF8&tag=osheen12345-21&linkCode=ur2&linkId=4167d061a1de59dc96aecaa813f39e58&camp=3638&creative=24630&node=1388921031', '_blank');
         win.focus();
         dcord=1
         setTimeout(function(){  
