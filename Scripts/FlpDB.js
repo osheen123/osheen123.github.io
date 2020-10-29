@@ -148,7 +148,7 @@ $("#instagramButton").click(function(){
     }    
 })
 
-/*$("#discordButton").click(function(){
+$("#discordButton").click(function(){
     if(dcord==0){
         var win = window.open('https://www.amazon.in/b?_encoding=UTF8&tag=osheen12345-21&linkCode=ur2&linkId=4167d061a1de59dc96aecaa813f39e58&camp=3638&creative=24630&node=1388921031', '_blank');
         win.focus();
@@ -158,7 +158,7 @@ $("#instagramButton").click(function(){
         enable()
         }, 1000);                
     }    
-})*/
+})
 
 function enable(){
     if(ins+yt+fb+dcord==3){
@@ -170,7 +170,7 @@ function enable(){
 }
 
 $("#downloadButton").click(function(){
-    if(ins+yt+fb+dcord==3){
+    if(ins+yt+fb+dcord==4){
         var my_value= CryptoJS.AES.decrypt(flpdb[x]["flp"], x).toString(CryptoJS.enc.Utf8);
         var win = window.open(my_value, '_blank');
         win.focus();                
