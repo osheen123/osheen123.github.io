@@ -243,11 +243,11 @@ function AddVideoCards(name,spotify,google,youtube,deezer,apple,amazon){
             <div class="col-md-6" style="display: flex;justify-content: center; padding: 5px;">
                 <a href="`+deezer+`"><img style="width: 25vmin;" src="Src/deezer.svg"/></a>            
             </div>          
-            <div class="col-md-6" style="display: flex;justify-content: center; padding: 15px;">
-                <a href="`+youtube+`"><img style="width: 25vmin;" src="Src/youtube.svg"/></a>            
-            </div>
-            <div class="col-md-6" style="display: flex;justify-content: center; padding: 15px;">
+            <div class="col-md-6" style="display: flex;justify-content: center; padding: 5px;">
                 <a href="`+google+`"><img style="width: 25vmin;" src="Src/googleplay.svg"/></a>            
+            </div>
+            <div class="col-md-6" style="display: flex;justify-content: center; padding: 20px;">
+                <a href="`+youtube+`"><img style="width: 25vmin;" src="Src/youtube.svg"/></a>            
             </div>
             <div class="col-md-6" style="display: flex;justify-content: center; padding: 14px;">
                 <a href="`+spotify+`"><img style="width: 25vmin;" src="Src/spotify.svg"/></a>            
