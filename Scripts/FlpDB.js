@@ -80,6 +80,9 @@ var flpdb ={
     "Av5MkTREHFE" : {"name":"HOW TO MAKE EMOTIONAL GUITAR SONG","flp":"U2FsdGVkX1/Z4Q8sGxKlQych4y29lCgztmQGKM10i1Yf8oTaUGra8zILJFerDUh7U9ALDK70v6O4o9M5UJjkGVdcdX6uO35MjFP34jtN/QS6aswUtA6jjsKAEuiPHLd4xtZMs2DQptgDU4YCM4N5Cg=="},
     "xw72k-IQscI" : {"name":"HOW TO MAKE ROCK SONG IN FL STUDIO","flp":"U2FsdGVkX1/yVbCC7WDUKIumbEOIDhxi8CnvQ+AM30ovFK/H6B97ndzUW7gzFzK8llg+Ucsjvw4IyEjPwcWW8z55GGT47eN9FlytU8+Bhb1BD50PWdl/f2B9IHbmKRv1j7YAKAcYOQsio9R6p0SOjw=="},
     "j3-Zek4RWIs" : {"name":"HOW TO MAKE A CHILL FUTURE BASS TRACK","flp":"U2FsdGVkX18tl6/eswUTxCavbUB+S2xLppI3kNV+e0JAffXioCC0EFo2L8pOrp1CKssPe6e+DAQtlDw4VsQhopsRM9+MTM7+/aFroCkVCvkOmnjGiqaq6BFkrbwc2Z5gaL5X75PhqsP5ir9VaUoNUA=="},
+    "U6f700j0804" : {"name":"HOW TO MAKE KAWAII FUTURE BASS","flp":"U2FsdGVkX18BLITtgKmJEXK/nJcF1ovPwVHpV0RwX/zYokQ0K9hl/cVLD+h7RHjDnxbtngd1zey1oBaxPf6gKDtMEzlrf/ejriDOEoE83PXgwlxVEHp+rZyGMjnha6tf9q/oM84DrCFFBkevcLtUZQ=="},
+    
+    /*2021*/
     
     "end" : {"name":"end","flp":"end"}
 }
