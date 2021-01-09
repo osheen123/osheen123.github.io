@@ -81,6 +81,7 @@ var flpdb ={
     "xw72k-IQscI" : {"name":"HOW TO MAKE ROCK SONG IN FL STUDIO","flp":"U2FsdGVkX1/yVbCC7WDUKIumbEOIDhxi8CnvQ+AM30ovFK/H6B97ndzUW7gzFzK8llg+Ucsjvw4IyEjPwcWW8z55GGT47eN9FlytU8+Bhb1BD50PWdl/f2B9IHbmKRv1j7YAKAcYOQsio9R6p0SOjw=="},
     "j3-Zek4RWIs" : {"name":"HOW TO MAKE A CHILL FUTURE BASS TRACK","flp":"U2FsdGVkX18tl6/eswUTxCavbUB+S2xLppI3kNV+e0JAffXioCC0EFo2L8pOrp1CKssPe6e+DAQtlDw4VsQhopsRM9+MTM7+/aFroCkVCvkOmnjGiqaq6BFkrbwc2Z5gaL5X75PhqsP5ir9VaUoNUA=="},
     "U6f700j0804" : {"name":"HOW TO MAKE KAWAII FUTURE BASS","flp":"U2FsdGVkX18BLITtgKmJEXK/nJcF1ovPwVHpV0RwX/zYokQ0K9hl/cVLD+h7RHjDnxbtngd1zey1oBaxPf6gKDtMEzlrf/ejriDOEoE83PXgwlxVEHp+rZyGMjnha6tf9q/oM84DrCFFBkevcLtUZQ=="},
+    "Alr19Aya2UQ" : {"name":"MAKE POP/ROCK TRACK IN 12 MINUTES [FL STUDIO]","flp":"U2FsdGVkX1+gv20LaZRoU7CXmsvnD16BlojRlPCZdxaXwIvu/lNnX9ZGX2gSkr54SSTdBCGigyXPhCFN4++tzjqSiiOL9uJPMnry+KDceVRty604o/Se7HUeJpTO+lkX0iSRI2mU5x7tlvzyRLOB4Q=="},
     
     /*2021*/
     
