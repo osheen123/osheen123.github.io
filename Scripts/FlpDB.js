@@ -167,7 +167,7 @@ $("#discordButton").click(function(){
 })
 
 function enable(){
-    if(ins+yt+fb+dcord==3){
+    if(ins+yt+fb+dcord==4){
         $("#downloadText").text("DOWNLOAD FLP")
         $("#downloadButton").css("background","#000000")
         $("#append1").append('<h6><b>Since all these projects are free downloads, consider supporting me on PAYPAL or PAYTM <span style="color:red">(This is an optional step, you can still download the FLP for free)</span> </b></h6>')
@@ -176,7 +176,7 @@ function enable(){
 }
 
 $("#downloadButton").click(function(){
-    if(ins+yt+fb+dcord==3){
+    if(ins+yt+fb+dcord==4){
         var my_value= CryptoJS.AES.decrypt(flpdb[x]["flp"], x).toString(CryptoJS.enc.Utf8);
         var win = window.open(my_value, '_blank');
         win.focus();                
