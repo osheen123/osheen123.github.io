@@ -86,6 +86,7 @@ var flpdb ={
     /*2021*/
     "E4dI2OWZn-E" : {"name":"HOW TO MAKE A HIT TIKTOK SONG","flp":"U2FsdGVkX18TKOVSHfjQcsaUkp9o9cmkbZtnSHW4ULUBMQnxL3QViUnp4whC1nrT1G4iLxA21BJ95qwlKaLxEBLl0Tcuhyj4QY3PZvEUIEAc9pX9doKygTSk0AWfB9B/c5CdOmqrfiZnwbE9oO98qg=="},
     "-b_qBSv2aQ0" : {"name":"HOW TO MAKE COUNTRY HOUSE EDM SONG","flp":"U2FsdGVkX1+FssyqGxiFyFdFAaU4nnawQtwEoEP5b7SFHgKgrcS4jZNqkFYaDaszTo21Fno+gUURzXOPbpbA+2xGCikQJeZCl7gz4D7F29qMbRWPfC7GatrjxstI5tYR"},
+    "QCUB8uc6BIc" : {"name":"HOW TO MAKE A PUNJABI SONG","flp":"U2FsdGVkX18LcaaE42tcGt0cHH87t6XFNjJrHAHqTEEPzj3cCr7t80WkyzcICHVPdUmGBR3m8oSVCO52RI9ZZGEwGheQ+ZckO1ED+vZTgUJ/2vVSMsoyPI3lxWHdroe/3uWZJ3hQXjJVDS2s9UevDw=="},
     
     "end" : {"name":"end","flp":"end"}
 }
