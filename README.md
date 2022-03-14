@@ -8,11 +8,11 @@
 
 #### Social Links
 
-* [instagram.com/osheenkhare](instagram.com/osheenkhare)
-* [youtube.com/osheen](youtube.com/osheen)
-* [linkedin.com/in/osheenkhare](linkedin.com/in/osheenkhare)
-* [facebook.com/osheenmusic](facebook.com/osheenmusic)
-* [osheenmusic.com](osheenmusic.com)
+* [instagram.com/osheenkhare](www.instagram.com/osheenkhare)
+* [youtube.com/osheen](www.youtube.com/osheen)
+* [linkedin.com/in/osheenkhare](www.linkedin.com/in/osheenkhare)
+* [facebook.com/osheenmusic](www.facebook.com/osheenmusic)
+* [osheenmusic.com](www.osheenmusic.com)
 
 #### Disclaimer
 
