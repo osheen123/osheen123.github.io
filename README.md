@@ -4,7 +4,6 @@
 
 * osheenmusic.com hosts Free-FLP-projects/SamplePacks/Music produced and distributed independently via me. There are over 50+ free projects which have been downloaded over 12,000+ times along with 1 free sample pack which has been downloaded over 50,000 times.
 * This repo contains source code for my website osheenmusic.com built on HTML/CSS/JS/BOOTSTRAP. 
-* The website is completely serverless with all the flp-links encrypted within the site itself.
 
 #### Social Links
 
