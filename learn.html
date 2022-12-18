@@ -1,36 +1,341 @@
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    
-    <meta charset="UTF-8">
-    <meta name="description" content="OSHEEN - Music Producer From India, making FL Studio tutorials/sample packs/music/flp and much more">
-    <meta name="keywords" content="OSHEEN, Osheen Music, Sample Pack, Music, Tutorial, FL Studio Tutorials, Free FLP">
-    <meta name="author" content="OSHEEN KHARE">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>OSHEEN</title>
-    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="OSHEEN - Music Producer From India, making FL Studio tutorials/sample packs/music/flp and much more">
+		<meta name="keywords" content="OSHEEN, Osheen Music, Sample Pack, Music, Tutorial, FL Studio Tutorials, Free FLP">
+		<meta name="author" content="OSHEEN KHARE">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>OSHEEN</title>
+		<link rel="shortcut icon" type="image/png" href="favicon.png" />
+		<!--LOAD BOOTSTRAP JQUERY-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+		<!--LOAD BOOTSTRAP JQUERY-->
+		<!--LOAD CUSTOM CSS-->
+		<link rel="stylesheet" href="Styles/root.css">
+		<link rel="stylesheet" href="Styles/loader.css">
+		<!--LOAD CUSTOM CSS-->
+	</head>
+	<body>
+		<div class="container-fluid">
+			<!--TOP NAV BAR-->
+			<div class="row">
+				<nav class="navbar navbar-default" style="border-radius: 0px;">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand navbarText" href="/index">OSHEEN</a>
+						</div>
+						<div class="collapse navbar-collapse navbar-right" id="myNavbar">
+							<ul class="nav navbar-nav">
+								<li class="navbar-pillet">
+									<a href="/index" class="navbarText">HOME</a>
+								</li>
+								<li class="myactive navbar-pillet">
+									<a href="/learn" class="navbarText">LEARN</a>
+								</li>
+								<li class="navbar-pillet">
+									<a href="/music" class="navbarText">MUSIC</a>
+								</li>
+								<li class="navbar-pillet">
+									<a href="/samplepacks" class="navbarText">SAMPLE PACKS</a>
+								</li>
+								<li class="navbar-pillet">
+									<a href="/flp" class="navbarText">TUTORIALS / FLP</a>
+								</li>
+								<li class="navbar-pillet">
+									<a href="/usage" class="navbarText">USAGE</a>
+								</li>
+								<li class="navbar-pillet">
+									<a href="/contact" class="navbarText">CONTACT</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+			</div>
+			<!--TOP NAV BAR-->
+			<!--CONTENT CONTAINER-->
+			<div class="container-fluid" style="padding: 0px;" id="content-container">
+				<div class="row" style="background-color: #000000; padding-top:20px;   ">
+					<div class="col-sm-12" style="display: flex; justify-content: center;">
+						<img style="height:200px;" class="img-responsive" src="Src/circle.png" />
+					</div>
+				</div>
+				<div class="row" style="background-color: #000000;">
+					<div class="col-sm-12 text" style="display: flex;justify-content: center;">
+						<div class="text-center">
+							<h1>
+								<b>Learn Music Production with OSHEEN</b>
+							</h1>
+						</div>
+					</div>
+				</div>
+				<div class="row" style="height: 30px; background-color: #000000;  text-align: center;"></div>
+				<br>
+				<div class="col-md-12" style="text-align: center; padding-left: 25px;padding-right: 25px;">
+					<h3 style="margin-top: 12px;" class="lineHeading">
+						<b class="lineHeadingText">A MESSAGE FROM OSHEEN</b>
+					</h3>
+				</div>
+				<div class="container">
+					<div class="row" style="margin-top: 35px;"></div>
+					<div class="row" style="padding: 10px;">
+						<div class="col-md-12">
+							<div class="row card" style="padding: 5px;">
+								<div class="row" style="text-align: center; padding: 5px;">
+									<h4 style="margin-bottom:0px;margin-top: 12px;">
+										<b>Is Music Production Hard ?</b>
+									</h4>
+									<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;">
+										<b>Making music is easy!</b> Search for yourself, Martin Garrix was 17 when his famous track "Animals" was released. Avicii was 20 when he made some of his most popular remixes, and Billie Eilish was 18 when "Bad Guy" came out. Even these days there are 12-14 years old producers making professional-sounding, outstanding music, far better than some of those who went to music schools and even have a professional degree in making music.
+									</h5>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row" style="padding: 10px;">
+						<div class="col-md-12">
+							<div class="row card" style="padding: 5px;">
+								<div class="row" style="text-align: center; padding: 5px;">
+									<h4 style="margin-bottom:0px;margin-top: 12px;">
+										<b>What I learnt in last 5 years</b>
+									</h4>
+									<div class="row">
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;">
+											<b>How do you produce melodies, hooks, and ideas?</b>
+										</h5>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> You don't need to know all the music theory in the world! You should know how to recreate any melody you hear or create any melody/idea that comes to your mind. </h5>
+										<br>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;">
+											<b>How do you convert your ideas to Tracks?</b>
+										</h5>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> There are only limited ways to create "professional" tracks, listen to some of Michael Jackson's songs, those songs were released in the 80s and still sound professional, even by today's standards. How come they were able to produce it 30 years ago? You don't need to own every other plugin that comes out. The basics of music production are still the same. </h5>
+										<br>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;">
+											<b>How do you make your track sound more professional?</b>
+										</h5>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> Sometimes, your track still lacks something, and you can't figure out what! even though it sounds great, it doesn't quite sound right compared to other professional tracks. What are you lacking? </h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row" style="padding: 10px;">
+						<div class="col-md-12">
+							<div class="row card" style="padding: 5px;">
+								<div class="row" style="text-align: center; padding: 5px;">
+									<h4 style="margin-bottom:0px;margin-top: 12px;">
+										<b>Why this Workshop tho?</b>
+									</h4>
+									<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> Trust me, you do not have to take expensive, overwhelming music courses and waste your money. Neither you have to enrol for Music Schools that will charge you for their "infrastructure and studio equipments". This workshop is more than enough to kickstart your music producer journey. </h5>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<br>
+				<br>
+				<div class="row">
+					<div class="col-md-12" style="text-align: center; padding-left: 25px;padding-right: 25px;">
+						<h3 style="margin-top: 12px;" class="lineHeading">
+							<b class="lineHeadingText">ABOUT THIS WORKSHOP</b>
+						</h3>
+					</div>
+				</div>
+				<div class="row" style="background-color: #eeeeee;">
+					<div class="container">
+						<div class="row" style="padding: 10px;">
+							<div class="col-md-12">
+								<div class="row card" style="padding: 5px;">
+									<div class="row" style="text-align: center; padding: 5px;">
+										<h4 style="margin-bottom:0px;margin-top: 12px;">
+											<b>Everything Live, Nothing Pre-Recorded!</b>
+										</h4>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> Interactive 4-day Course where I will teach Music Production, Music Theory, Mixing, Layering and Mastering based on my journey and experiences as a Music Producer. All 4 sessions will be Live where you can ask your doubts on the go. There will be assignments and Homework each day and you will have to present it the next day. You also get access to private community to clear your doubts and get track feedbacks. </h5>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row" style="padding: 10px;">
+							<div class="col-md-12">
+								<div class="row card" style="padding: 5px;">
+									<div class="row" style="text-align: center; padding: 5px;">
+										<h4 style="margin-bottom:0px;margin-top: 12px;">
+											<b>Everything Included, Less than price of a movie ticket!</b>
+										</h4>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> • The session recordings will be available after the live lecture for next 2 months. <br> • 4 days / 10 Hours Live content. Per session content less than price of a movie ticket! <br> • All Project FLPs, Samples and Presets Available for Download <br> • Lifetime Discord Community access for doubts clearing and track feedbacks. </h5>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row" style="padding: 10px;">
+							<div class="col-md-12">
+								<div class="row card" style="padding: 5px;">
+									<div class="row" style="text-align: center; padding: 5px;">
+										<h4 style="margin-bottom:0px;margin-top: 12px;">
+											<b>After this workshop you would be able to </b>
+										</h4>
+										<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> • Learn Enough music theory to remake melodies from any song you listen, or bring melodies in your head to FL Studio. <br> • Produce music for any genre, there will be case studies on tracks from different genres about instruments and arrangements. <br> • Learn about FX, Automations and FL Studio tips for better management of projects. <br> • Learn Mixing, Mastering and Layering secrets I have gained from working other producers and plugin companies. <br> • Understanding on Vocal Processing, Vocal Chops and Mixing. </h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row" style="margin-top: 35px;">
+					<div class="col-md-12" style="text-align: center; padding-left: 25px;padding-right: 25px;">
+						<h3 style="margin-top: 12px;" class="lineHeading">
+							<b class="lineHeadingText">DAY WISE CONTENT</b>
+						</h3>
+					</div>
+				</div>
+				<div class="container">
+					<div class="col-md-6">
+						<div class="row card" style="padding: 5px;">
+							<div class="row" style="text-align: center; padding: 5px;">
+								<h4 style="margin-bottom:0px;margin-top: 12px;">
+									<b>Day 1 </b>
+								</h4>
+								<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> • What exactly is Music Production <br> • Home Studio Setup <br> • Introduction to DAW, FL Studio <br> • Understanding Mixer and Routing <br> • Understanding Channels <br> • Understanding Playlist and Tools <br> • Understanding Automation <br> • Making the most out of FL Studio <br> • Project Case Studies </h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="row card" style="padding: 5px;">
+							<div class="row" style="text-align: center; padding: 5px;">
+								<h4 style="margin-bottom:0px;margin-top: 12px;">
+									<b>Day 2 </b>
+								</h4>
+								<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> • Music Theory Basics <br> • Finding your Scale <br> • How to come up with Melodies <br> • Bring ideas to DAW <br> • Chords for your Melodies <br> • How to recreate other melody <br> • Portamento and Sliding Notes <br> • Vocal chop Melodies <br> • Project Case Studies
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="row card" style="padding: 5px;">
+							<div class="row" style="text-align: center; padding: 5px;">
+								<h4 style="margin-bottom:0px;margin-top: 12px;">
+									<b>Day 3 </b>
+								</h4>
+								<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> • Elements of a Song <br> • Components and Rules of Layering <br> • Layering and Mixing Bass <br> • Layering and Mixing Saws <br> • Layering and Mixing Pianos <br> • Layering and Mixing Leads <br> • Layering and Mixing Drums <br> • Layering and Mixing Vocals
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="row card" style="padding: 5px;">
+							<div class="row" style="text-align: center; padding: 5px;">
+								<h4 style="margin-bottom:0px;margin-top: 12px;">
+									<b>Day 4 </b>
+								</h4>
+								<h5 style="padding-left:80px;padding-right:80px;line-height: 1.6; text-align: justify;"> • EQing <br> • Glue Compression <br> • Bus Effects <br> • Maximus <br> • Mastering Basics <br> • Project Case Studies <br> • Exporting and Visualizer <br> • QNA and Conclusion
+							</div>
+						</div>
+					</div>
+				</div>
+				<br>
+				<br>
+				<div class="row">
+					<div class="col-md-12" style="text-align: center; padding-left: 25px;padding-right: 25px;">
+						<h3 style="margin-top: 12px;" class="lineHeading">
+							<b class="lineHeadingText">REGISTER FOR WORKSHOP</b>
+						</h3>
+					</div>
+				</div>
+				<div class="row" style="background-color: #eeeeee;">
+					<div class="container">
 
-    <!--LOAD BOOTSTRAP JQUERY-->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-    <!--LOAD BOOTSTRAP JQUERY-->
-    
-    <!--LOAD CUSTOM CSS-->
-    <link rel="stylesheet" href="Styles/root.css">
-    <link rel="stylesheet" href="Styles/loader.css">
-    <!--LOAD CUSTOM CSS-->    
+            <div class="col-md-12">
+              <div class="row" style="padding: 5px;">
 
-    
-  </head>
-  <body>
+                <div class="row" style="text-align: center; padding: 5px;">
 
-  <div class="container-fluid" >    
-    <script>
-        window.location = "https://osheen.ongraphy.com/s/store/courses/description/Course-Sept-2022";
-    </script>
-  </div>  
-      
+                  <div class="row" style="text-align: center; padding: 5px;">
+                    <h4 style="margin-bottom:0px;margin-top: 12px;">
+                      <b><u>FOR LEARNERS FROM INDIA</u></b>
+                    </h4>
+                    <br>
+                    <h4 style="margin-bottom:0px;margin-top: 12px;">
+                      <b>ENROLL FOR INR 1999/-</b>
+                    </h4>
+                    <br>
+                    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KtWju0HxTN2GzE" async> </script> </form>
+                  </div>
 
-  </body>   
+                  <div class="row" style="text-align: center; padding: 5px;">
+                    <h4 style="margin-bottom:0px;margin-top: 12px;">
+                      <b><u>FOR LEARNERS OUTSIDE INDIA</u></b>
+                    </h4>
+                    <br>
+                    <h4 style="margin-bottom:0px;margin-top: 12px;">
+                      <b>ENROLL FOR 28$</b>
+                    </h4>
+                    <br>
+                    <div id="smart-button-container" style="padding-left: 20px; padding-right:20px;">
+                      <div style="text-align: center;">
+                        <div id="paypal-button-container"></div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+					</div>
+				</div>
+				<br>
+				<br>
+				<div class="row" style="height: 30px; background-color: #000000;  text-align: center;"></div>
+			</div>
+			<!--CONTENT CONTAINER-->
+		</div>
+		</div>
+	</body>
+	<script src="Scripts/Navbar.js"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=AUvYKqYpDpl6TFjdSY1fOynipOpFYhpL1YnziExAmRbnYSdEpabch2peM5bBCke3BGmT4YSfnRNy2OdK&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+  function initPayPalButton() {
+    paypal.Buttons({
+      style: {
+        shape: 'rect',
+        color: 'white',
+        layout: 'vertical',
+        label: 'pay',
+        
+      },
+
+      createOrder: function(data, actions) {
+        return actions.order.create({
+          purchase_units: [{"description":"Osheen Live Music Production Workshop","amount":{"currency_code":"USD","value":28}}]
+        });
+      },
+
+      onApprove: function(data, actions) {
+        return actions.order.capture().then(function(orderData) {
+          
+          // Full available details
+          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+          // Show a success message within this page, e.g.
+          const element = document.getElementById('paypal-button-container');
+          element.innerHTML = '';
+          element.innerHTML = '<h3>Thank you for your payment!</h3>';
+          actions.redirect('/success.html');
+          
+        });
+      },
+
+      onError: function(err) {
+        console.log(err);
+      }
+    }).render('#paypal-button-container');
+  }
+  initPayPalButton();
+</script>
 </html>
