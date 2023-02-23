@@ -96,7 +96,7 @@
       </div>
       <!--LOGO CONTAINER-->
       <!--heading CONTAINER-->
-      <div class="row" style="background-color: #000000; padding-bottom:20px;">
+      <div class="row" style="background-color: #000000;">
         <div class="col-sm-12 text" style="display: flex;justify-content: center;">
           <div class="text-center">
             <h1>
@@ -109,6 +109,11 @@
           </div>
         </div>
       </div>
+      <div class="row" style="padding-bottom: 20px;">
+         <div id="now1" style="margin-left:25px;margin-right:25px;padding:10px;background-color: #337ab7; color:#FFFFFF; cursor: pointer">
+             <b>REGISTER NOW</b>
+          </div>
+       </div>
       <!--heading CONTAINER-->
     </div>
     <!--content CONTAINER-->
@@ -439,6 +444,13 @@
     </script>
     <script>
       $('#now').click(function(e) {
+        $("html, body").animate({
+          scrollTop: $(document).height()
+        }, "slow");
+        return false;
+      });
+      
+      $('#now1').click(function(e) {
         $("html, body").animate({
           scrollTop: $(document).height()
         }, "slow");
