@@ -417,7 +417,7 @@
       <div class="row" style="padding:0 15px">
         <div class="col-md-12" style="border-radius: 3px; border: 1px solid #ddd; background-color: #F5F5F5">
           <div class="col-md-3">
-            <div class="col-sm-12" style="display: flex; justify-content: center;">
+            <div class="col-sm-12" style="display: flex; justify-content: center; margin-top: 10px;">
               <img style="height:180px; width:180px; border-radius: 100px; margin:10px; border: 1px solid #000" class="img-responsive" src="Src/osheenteaching.jpg" alt="circle">
             </div>
           </div>
@@ -428,7 +428,12 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-md-12" style="text-align: left; font-size:1.6rem; margin-top:10px; margin-bottom:20px;"> Hi, I am Osheen! a music producer from India. I have been into the music production business for over 5 years. I have worked with advertisement agencies and copyright-free labels for background music. I have collaborated with some of the major plugin and Sample Pack makers in the industry to help them enhance their products. I also make tutorials on music production. With over 130,000 subscribers I get a monthly viewership of over 300,000 on YouTube. </div>
+              <div class="col-md-12" style="text-align: left; font-size:1.6rem; margin-top:10px; margin-bottom:10px;"> Hi, I am Osheen! a music producer from India. I have been into the music production business for over 5 years. I have worked with advertisement agencies and copyright-free labels for background music. I have collaborated with some of the major plugin and Sample Pack makers in the industry to help them enhance their products. I also make tutorials on music production. With over 130,000 subscribers I get a monthly viewership of over 300,000 on YouTube. </div>
+              <div class="col-sm-12" style="display: flex; justify-content: center;">          
+                <div class="row" style="margin-bottom:20px;">
+                 <button class="btn btn-success" id="wt">Connect on Whatsapp</button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -544,6 +549,12 @@
         $("html, body").animate({
           scrollTop: $(document).height()
         }, "slow");
+        return false;
+      });
+
+      $('#wt').click(function(e) {        
+        var win = window.open('https://wa.me/916362965668', '_blank');
+        win.focus();        
         return false;
       });
       
