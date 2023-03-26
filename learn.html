@@ -196,6 +196,7 @@
                 <li>All Project FLPs, Samples and Presets Available for Download</li>                
                 <li>Lifetime Community access for doubts clearing and track feedbacks.</li>
                 <li><b>BONUS: Get My <u>Sonic Elements</u> Sample Pack with Over 1GB of Samples for <u>FREE</u>!! Suitable for Making music in any genre. </b></li>
+                <li><b>Get 50$ OFF on LANDR!! (You can claim it even if you dont register for my workshop from the link below)</b></li>
               </ul>
             </div>
           </div>          
@@ -281,6 +282,32 @@
       </div>
     </div>
     <!--Sample Pack -->
+    <!--landr Pack -->
+    <div class="container">
+      <div class="row card" style="box-shadow: 4px 4px 8px 4px rgba(50,203,203,0.673); margin: 15px 8px 10px 8px; padding-left: 8px; padding-right: 8px;">        
+        <div class="col-md-12">
+          <div class="row" style="text-align:center; font-size:2.2rem; margin-top:20px">
+            <div class="col-md-12">
+              <b><u>LANDR BONUS</u></b>
+            </div>
+          </div>
+          <div class="row" style="text-align:center; font-size:1.8rem; margin-top:20px">
+            <div class="col-md-12">
+              <b>50$ OFF on LANDR!</b>
+            </div>
+          </div>
+          <div class="row" style="text-align:center; font-size:1.6rem; margin-top:5px;">
+            <div class="col-md-12">
+              Thanks for checking out my course, even if you don't register, you can still claim 50$ discount on LANDR. LANDR is the creative platform for musicians: AI-powered music mastering, distribution, plugins, collaboration, promotion and sample packs. Millions of musicians (even the most popular ones) use samples from LANDR!
+            </div>
+          </div>
+          <div class="row" style="margin-bottom:20px; text-align: center; margin-top: 20px;">
+           <button class="btn btn-info" id="ld">CLAIM YOUR 50$ LANDR DISCOUNT</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--landr Pack -->
     <!--daywise CONTAINER-->
     <div class="container">
       <div class="row" style="margin-top:20px">
@@ -552,10 +579,12 @@
         return false;
       });
 
-      $('#wt').click(function(e) {        
-        var win = window.open('https://wa.me/916362965668', '_blank');
-        win.focus();        
-        return false;
+      $('#wt').click(function(e) {                
+        window.location = "https://wa.me/916362965668";        
+      });
+
+      $('#ld').click(function(e) {        
+        window.location = "https://osheenmusic.com/landr";
       });
       
       $('#now1').click(function(e) {
