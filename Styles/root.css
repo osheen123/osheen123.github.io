@@ -39,7 +39,7 @@
 .lineHeading{
     width: 100%; 
     text-align: center; 
-    border-bottom: 2.5px solid #ffffff; 
+    border-bottom: 2.5px solid #000000; 
     line-height: 0.1em;
     margin: 10px 0 20px; 
 }
