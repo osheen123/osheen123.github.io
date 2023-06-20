@@ -84,12 +84,12 @@
                 </div>
                 <div class="panel-body">
                 <h5 style="color: #444444;">Meeting Links and Content will be shared on this mail</h5>
-                <form>
+                <div>
                     <div class="form-group">
                     <input type="email" class="form-control" id="emailInput" placeholder="Email">
                     </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </form>
+                    <button id="iet" class="btn btn-primary">Submit</button>
+                </div>
                 </div>
             </div>
         </div>
@@ -230,7 +230,7 @@
     }
 
     $(document).ready(function() {
-      $('form').submit(function(event) {
+      $('#iet').click(function(event) {
         event.preventDefault(); // Prevent form submission
         var email = $('#emailInput').val();
         XYZ(email)
@@ -276,9 +276,7 @@
       }
       initPayPalButton();
 </script>
-<script src="https://www.free-website-hit-counter.com/c.php?d=9&id=152044&s=5"></script>
 
 </body>
 </html>
-
 
