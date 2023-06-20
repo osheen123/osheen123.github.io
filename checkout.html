@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OSHEEN</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="Styles/root.css">
+  <link rel="stylesheet" href="Styles/loader.css">
+</head>
+<style>
+    body {
+      background-color: black;
+    }
+
+    .vertical-center {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 90vh;      
+    }
+
+    .text-rainbow-animation2 {
+        background-image:
+        linear-gradient(to right, rgb(100, 100, 0), green, royalblue, red, indigo, magenta);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        animation: rainbow-animation 100s linear infinite;
+    }
+</style>
+<body>
+<div class="container-fluid">
+
+<!--TOP NAV BAR-->
+<div class="row">
+    <nav class="navbar navbar-default" style="border-radius: 0px;">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand navbarText" href="/index">OSHEEN</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+          <ul class="nav navbar-nav">
+            <li class="navbar-pillet">
+              <a href="/index" class="navbarText">HOME</a>
+            </li>
+            <li class="myactive navbar-pillet">
+              <a href="/learn" class="navbarText">LEARN</a>
+            </li>
+            <li class="navbar-pillet">
+              <a href="/music" class="navbarText">MUSIC</a>
+            </li>
+            <li class="navbar-pillet">
+              <a href="/samplepacks" class="navbarText">SAMPLE PACKS</a>
+            </li>
+            <li class="navbar-pillet">
+              <a href="/flp" class="navbarText">TUTORIALS / FLP</a>
+            </li>
+            <li class="navbar-pillet">
+              <a href="/usage" class="navbarText">USAGE</a>
+            </li>
+            <li class="navbar-pillet">
+              <a href="/contact" class="navbarText">CONTACT</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+</div>
+<!--TOP NAV-->
+
+<!-- MAIL -->
+<div class="vertical-center" style="font-family: system-ui, Geneva, Verdana, sans-serif;">
+    <div class="row 1">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <div id="maillelo" class="panel panel-default" style="max-width: 100%; width: 85vw; font-size:1.6rem; box-shadow: 0 0 18px 9px rgb(82, 174, 255);">
+                <div class="panel-heading">
+                <h2 class="panel-title"><b>Enter your email</b></h2>
+                </div>
+                <div class="panel-body">
+                <h5 style="color: #444444;">Meeting Links and Content will be shared to this mail</h5>
+                <form>
+                    <div class="form-group">
+                    <input type="email" class="form-control" id="emailInput" placeholder="Email">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4"></div>
+    </div>
+
+    <div class="row 2">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <div class="panel panel-default" style="max-width: 100%; width: 85vw; font-size:1.6rem; box-shadow: 0 0 18px 9px rgb(82, 174, 255);">
+                <div class="panel-heading">
+                <h3 class="panel-title">What's included</h3>
+                </div>
+                <div class="panel-body">
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Price</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>4 days - Live Workshop</td>
+                        <td>$39.99</td>
+                    </tr>
+                    <tr>
+                        <td>Sonic Element Sample Pack (1GB+ Samples)</td>
+                        <td><span style="text-decoration: line-through;">$35.00</span><br><span class="text-rainbow-animation2">FREE</span></td>
+                    </tr>
+                    <tr>
+                        <td>MIDI Chords Pack</td>
+                        <td><span style="text-decoration: line-through;">$9.99</span><br><span class="text-rainbow-animation2">FREE</span></td>
+                    </tr>
+                    <tr>
+                        <td>7 Professional FLPs</td>
+                        <td><span style="text-decoration: line-through;">$19.99</span><br><span class="text-rainbow-animation2">FREE</span></td>
+                    </tr>
+                    <tr>
+                        <td>10 Music Theory Assignments</td>
+                        <td><span style="text-decoration: line-through;">$4.99</span><br><span class="text-rainbow-animation2">FREE</span></td>
+                    </tr>
+                    <tr>
+                        <td>Private Discord Access</td>
+                        <td><span style="text-decoration: line-through;">$4.99</span><br><span class="text-rainbow-animation2">FREE</span></td>
+                    </tr>                        
+                    </tbody>
+                    <tfoot>
+                    <tr>
+                        <td><h3><strong>Total</strong></h3></td>
+                        <td><h3><span class="text-rainbow-animation2"><b>$39.99</b></span></h3></td>
+                    </tr>
+                    </tfoot>
+                </table>
+        
+                <div class="col-md-12">
+                    <div class="row" style="padding-top:20px; font-size:1.8rem;">
+                      <div class="col-sm-12" style="display: flex; justify-content: center;">
+                        <div class="row"  style="display: flex; justify-content: center; ">
+                          <span class=" glyphicon glyphicon-credit-card" style="font-size:2.5rem; margin-right:0.8rem;"></span>
+                          <b>PAY FROM ANYWHERE</b>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+        
+                <div class="row" style="padding-top:8px; text-align: center;">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8" style="margin-top: 12px;">
+                      <div id="paypal-button-container"></div>
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
+        
+                <div class="row" style="padding-top:5px; font-size:1.2rem;">
+                    <div class="col-md-12" style="text-align: center; padding-left: 25px;padding-right: 25px;">
+                      <h3 style="margin-top: 1px;" class="lineHeading">
+                        <b style=" background-color: #ffffff; padding: 10px;">OR</b>
+                      </h3>
+                    </div>
+                </div>
+        
+                <div class="col-md-12">
+                    <div class="row" style="padding-top:20px; font-size:1.8rem;">
+                      <div class="col-sm-12" style="display: flex; justify-content: center;">
+                        <div class="row"  style="display: flex; justify-content: center; ">                            
+                          <span class=" glyphicon glyphicon-credit-card" style="font-size:2.5rem; margin-right:0.8rem;"></span>
+                          <b>PAY FROM INDIA</b>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+        
+                <div class="row" style="font-size:4rem; margin-top:12px;">
+                    <div class="col-sm-12" style="display: flex; justify-content: center;">                        
+                      <div class="row">
+                        <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_LLsJdEbXGzPv6J" async> </script> </form>
+                      </div>
+                    </div>
+                </div>
+        
+                <!---->
+                </div>
+            </div>
+        </div>
+        <div class="collg-4"></div>
+    </div>
+    
+</div>
+</div>
+<!-- MAIL -->
+
+<script>
+    $('.1').hide();
+    $('.2').show();
+
+    var url = "https://prod-41.eastus.logic.azure.com:443/workflows/af0e15af388846ee91ab6358141295e2/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=47wv8CxH1mQHbeAJdt_HphIxRM3Exn5DG0UjI1lCCdY"
+
+    function XYZ(s){
+        var jsonData = {
+          "email": s
+        };
+        $('.1').hide();
+        $('.2').show();
+        $.ajax({
+          type: "POST",
+          url: url,
+          data: JSON.stringify(jsonData),
+          contentType: "application/json",
+          success: function(response) {
+            // Handle the response from the API
+            //console.log(response);            
+          },
+          error: function(jqXHR, textStatus, errorThrown) {
+            // Handle any errors that occur during the API call
+            console.log(textStatus, errorThrown);
+          }
+        });        
+    }
+
+    $(document).ready(function() {
+      $('form').submit(function(event) {
+        event.preventDefault(); // Prevent form submission
+        var email = $('#emailInput').val();
+        XYZ(email)
+      });
+    });
+    
+</script>
+<script src="https://www.paypal.com/sdk/js?client-id=AUvYKqYpDpl6TFjdSY1fOynipOpFYhpL1YnziExAmRbnYSdEpabch2peM5bBCke3BGmT4YSfnRNy2OdK&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+    <script>
+      function initPayPalButton() {
+        paypal.Buttons({
+          style: {
+            shape: 'rect',
+            color: 'white',
+            layout: 'vertical',
+            label: 'pay',
+          },
+          createOrder: function(data, actions) {
+            return actions.order.create({
+              purchase_units: [{
+                "description": "Osheen Live Music Production Workshop",
+                "amount": {
+                  "currency_code": "USD",
+                  "value": 39.99
+                }
+              }]
+            });
+          },
+          onApprove: function(data, actions) {
+            return actions.order.capture().then(function(orderData) {
+              // Full available details
+              //console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+              const element = document.getElementById('paypal-button-container');
+              element.innerHTML = '';
+              element.innerHTML = '<h3 class="text-rainbow-animation2"> Your Payment has been successfully captured! <br> <br> You will receive the Live Links and other Details in your EMAIL soon.</h3>';
+              actions.redirect('/success.html');
+            });
+          },
+          onError: function(err) {
+            console.log(err);
+          }
+        }).render('#paypal-button-container');
+      }
+      initPayPalButton();
+</script>
+<script src="https://www.free-website-hit-counter.com/c.php?d=9&id=152044&s=5"></script>
+
+</body>
+</html>
+
+
