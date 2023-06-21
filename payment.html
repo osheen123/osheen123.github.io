@@ -99,6 +99,7 @@
                         <h5 style="color: #444444;">Meeting Links and Content will be shared on this mail</h5>
                         <div>
                             <div class="form-group">
+                            <div id="valid" style="display: none;"><h6 style="color:#ff0000">Enter a valid Email</h6></div>
                             <input type="email" class="form-control" id="emailInput" placeholder="Email">
                             </div>
                             <button id="iet" class="btn btn-primary">Next</button>
@@ -245,7 +246,20 @@
           $('#iet').click(function(event) {
             event.preventDefault(); // Prevent form submission
             var email = $('#emailInput').val();
-            XYZ(email)
+            var isValid = email === "" ? false : true;
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            isValid = emailRegex.test(email);
+            if(isValid)
+            {
+              XYZ(email)
+            }
+            else
+            {
+              const element = document.getElementById("valid");
+              if (element) {
+                element.style.display = "block";
+              }
+            }
           });
         });
         
