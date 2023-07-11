@@ -33,10 +33,24 @@
     
         .text-rainbow-animation2 {
             background-image:
-            linear-gradient(to right, rgb(100, 100, 0), green, royalblue, red, indigo, magenta);
+            linear-gradient(to right, green, royalblue, red, indigo, magenta);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            animation: rainbow-animation 100s linear infinite;
+            animation: rainbow-animation 1000s linear infinite;
+        }
+
+        .text-rainbow-animation3 {
+            background-image:
+            linear-gradient(to right, rgb(100, 100, 0), cyan, green, royalblue, red, indigo, yellow, magenta, black);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: rainbow-animation 500s linear infinite;
+        }
+
+        @keyframes rainbow-animation {
+          to {
+          background-position: 5000vh;
+          }
         }
     </style>
   </head>
@@ -113,7 +127,7 @@
             <div class="row 2">
                 <div class="col-lg-4"></div>
                 <div class="col-lg-4">
-                    <div class="panel panel-default" style="max-width: 100%; width: 85vw; font-size:1.6rem; box-shadow: 0 0 18px 9px rgb(82, 174, 255);">
+                    <div class="panel panel-default" style="max-width: 100%; width: 90vw; font-size:1.6rem; box-shadow: 0 0 18px 9px rgb(82, 174, 255);">
                         <div class="panel-heading">
                         <h3 class="panel-title">What's included</h3>
                         </div>
@@ -128,38 +142,34 @@
                             <tbody>
                             <tr>
                                 <td>
-                                  <b>4 days - Live Workshop</b> <br> 
-                                  <span class="glyphicon glyphicon-calendar" style="margin-right: 6px;"></span>6th to 9th July <br>
-                                  <span class="glyphicon glyphicon-map-marker" style="margin-right: 6px;"></span>Online Meeting
+                                  <b><u style="font-size: 1.8rem;">4 Days - Live Music Production Workshop</u></b> <br> 
+                                  <span class="glyphicon glyphicon-calendar" style="margin-right: 6px; margin-left: 32px; margin-top: 8px;"></span>24th to 27th August, 2023 <br>
+                                  <span class="glyphicon glyphicon-record" style="margin-right: 6px; margin-left: 32px;"></span>Online Meeting + Recordings <br>
+                                  <span class="glyphicon glyphicon-file" style="margin-right: 6px; margin-left: 32px;"></span>7 Professional FLP Projects <br>
+                                  <span class="glyphicon glyphicon-edit" style="margin-right: 6px; margin-left: 32px;"></span>10 Music Theory Assignments <br>
+                                  <span class="glyphicon glyphicon-comment" style="margin-right: 6px; margin-left: 32px;"></span>Private Discord Access <br>
+                                  <span class="glyphicon glyphicon-education" style="margin-right: 6px; margin-left: 32px;"></span>Certification on Completion
+                                <td style="font-size: 1.8rem;">$50</td>
+                            </tr>
+                            <tr>
+                                <td><b><u style="font-size: 1.8rem;">Sonic Elements Sample Pack</u></b><br>
+                                  <span class="glyphicon glyphicon-folder-open" style="margin-right: 6px; margin-left: 32px; margin-top: 8px;"></span>(1GB+ Samples and Melodies)
+                                <td><span style="text-decoration: line-through; font-size: 1.8rem;">$35</span> <br><span class="text-rainbow-animation2">FREE</span></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                  <b><u style="font-size: 1.8rem;">MIDI Chord Progressions Pack</u></b><br>
+                                  <span class="glyphicon glyphicon-music" style="margin-right: 6px; margin-left: 32px; margin-top: 8px;"></span>(100+ Chord Progressions)
                                 </td>
-                                <td>$39</td>
-                            </tr>
-                            <tr>
-                                <td><b>Sonic Elements Sample Pack</b><br>(1GB+ Samples and Melodies)</td>
-                                <td><span style="text-decoration: line-through;">$35</span><br><span class="text-rainbow-animation2">FREE</span></td>
-                            </tr>
-                            <tr>
-                                <td>MIDI Chord Pack</td>
-                                <td><span style="text-decoration: line-through;">$10</span><br><span class="text-rainbow-animation2">FREE</span></td>
-                            </tr>
-                            <tr>
-                                <td>7 Professional FLPs</td>
-                                <td><span style="text-decoration: line-through;">$20</span><br><span class="text-rainbow-animation2">FREE</span></td>
-                            </tr>
-                            <tr>
-                                <td>10 Music Theory Assignments</td>
-                                <td><span style="text-decoration: line-through;">$5</span><br><span class="text-rainbow-animation2">FREE</span></td>
-                            </tr>
-                            <tr>
-                                <td>Private Discord Access</td>
-                                <td><span style="text-decoration: line-through;">$5</span><br><span class="text-rainbow-animation2">FREE</span></td>
-                            </tr>                        
+                                <td><span style="text-decoration: line-through; font-size: 1.8rem;">$10</span><br><span class="text-rainbow-animation2">FREE</span></td>
+                            </tr>                       
                             </tbody>
                             <tfoot>
-                            <tr>
-                                <td><h3>Total</h3><h3><strong class="text-rainbow-animation2">Discounted Price</strong></h3></td>
-                                <td><h3 style="text-decoration: line-through;">$114</h3><h3><span class="text-rainbow-animation2"><b>$39</b></span></h3></td>
+                            <tr style="margin-top: 32px;">
+                                <td> <b style="font-size: 2.1rem;" class="text-rainbow-animation3">EARLY BIRD DISCOUNT</b></td>
+                                <td> <b style="font-size: 2.1rem;" class="text-rainbow-animation2">$39</b></td>
                             </tr>
+                            <tr></tr>
                             </tfoot>
                         </table>
                 
