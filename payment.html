@@ -233,10 +233,21 @@
     </div>
     
     <script>
-        $('.1').hide();
+        $('.2').hide();
     
         var url = "https://prod-41.eastus.logic.azure.com:443/workflows/af0e15af388846ee91ab6358141295e2/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=47wv8CxH1mQHbeAJdt_HphIxRM3Exn5DG0UjI1lCCdY"
     
+        try {
+          // Code that might throw an exception
+          param=location.href.split("?")
+          if(param.length>1){
+            $('.1').hide();
+            $('.2').show();
+          }
+        } catch (error) {
+          // Code to handle the exception
+        }
+
         function XYZ(s){
             var jsonData = {
               "email": s
