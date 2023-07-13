@@ -41,7 +41,7 @@
 
         .text-rainbow-animation3 {
             background-image:
-            linear-gradient(to right, rgb(100, 100, 0), cyan, green, royalblue, red, indigo, yellow, magenta, black);
+            linear-gradient(to right, cyan, green, royalblue, red, yellow, magenta);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             animation: rainbow-animation 500s linear infinite;
@@ -136,7 +136,7 @@
                             <thead>
                             <tr>
                                 <th>Item</th>
-                                <th>Price</th>
+                                <th style="text-align: end;">Price</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -149,27 +149,30 @@
                                   <span class="glyphicon glyphicon-edit" style="margin-right: 6px; "></span>10 Music Theory Assignments <br>
                                   <span class="glyphicon glyphicon-comment" style="margin-right: 6px; "></span>Private Discord Access <br>
                                   <span class="glyphicon glyphicon-education" style="margin-right: 6px; "></span>Certification on Completion
-                                <td style="font-size: 1.8rem;">$50</td>
+                                <td style="font-size: 1.8rem; text-align: end;">$50</td>
                             </tr>
                             <tr>
                                 <td><b><u style="font-size: 1.8rem;">Sonic Elements Sample Pack</u></b><br>
                                   <span class="glyphicon glyphicon-folder-open" style="margin-right: 6px;  margin-top: 8px;"></span>(1GB+ Samples and Melodies)
-                                <td><span style="text-decoration: line-through; font-size: 1.8rem;">$35</span> <br><span class="text-rainbow-animation2">FREE</span></td>
+                                <td style="text-align: end;"><span style="text-decoration: line-through; font-size: 1.8rem;">$35</span> <br><span class="text-rainbow-animation2">FREE</span></td>
                             </tr>
                             <tr>
                                 <td>
                                   <b><u style="font-size: 1.8rem;">MIDI Chord Progressions Pack</u></b><br>
                                   <span class="glyphicon glyphicon-music" style="margin-right: 6px;  margin-top: 8px;"></span>(100+ Chord Progressions)
                                 </td>
-                                <td><span style="text-decoration: line-through; font-size: 1.8rem;">$10</span><br><span class="text-rainbow-animation2">FREE</span></td>
+                                <td style="text-align: end;"><span style="text-decoration: line-through; font-size: 1.8rem; text-align: end;">$10</span><br><span class="text-rainbow-animation2">FREE</span></td>
                             </tr>                       
                             </tbody>
                             <tfoot>
                             <tr style="margin-top: 32px;">
-                                <td> <b style="font-size: 2.1rem;" class="text-rainbow-animation3">EARLY BIRD DISCOUNT</b></td>
-                                <td> <b style="font-size: 2.1rem;" class="text-rainbow-animation2">$39</b></td>
+                                <td style="text-align: end; padding-right: 18px;"> <span style="font-size: 2.0rem;" class="">TOTAL</span></td>
+                                <td style="text-align: end;"> <span style="font-size: 2.0rem;" class="">$50</span></td>
                             </tr>
-                            <tr></tr>
+                            <tr style="margin-top: 32px;">
+                                <td style="text-align: end; padding-right: 18px;"> <b style="font-size: 2.5rem;" class="text-rainbow-animation2">[LIMITED OFFER PRICE]</b></td>
+                                <td style="text-align: end;"> <b style="font-size: 2.5rem;" class="text-rainbow-animation2">$39</b></td>
+                            </tr>
                             </tfoot>
                         </table>
                 
@@ -230,7 +233,7 @@
     </div>
     
     <script>
-        $('.2').hide();
+        $('.1').hide();
     
         var url = "https://prod-41.eastus.logic.azure.com:443/workflows/af0e15af388846ee91ab6358141295e2/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=47wv8CxH1mQHbeAJdt_HphIxRM3Exn5DG0UjI1lCCdY"
     
