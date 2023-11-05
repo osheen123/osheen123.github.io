@@ -1,7 +1,7 @@
 function getRandomNumber() {
     const random = Math.random();
     const randomNumber = Math.floor(random * 7) + 1;
-    return (randomNumber + 7) * 1000;
+    return (randomNumber + 12) * 1000;
   }
 
 function showNotification() {
