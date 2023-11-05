@@ -1,6 +1,8 @@
-function getRandomTime(min, max) {
-    return Math.random() * (max - min) + min;
-}
+function getRandomNumber() {
+    const random = Math.random();
+    const randomNumber = Math.floor(random * 7) + 1;
+    return (randomNumber + 4) * 1000;
+  }
 
 function showNotification() {
     const notification = document.getElementById('notification');
@@ -105,15 +107,16 @@ function showNotification() {
 
     setTimeout(() => {
         notification.style.display = 'none';
-    }, 3000);
+    }, 2500);
 }
 
 function setupRandomNotifications() {
-
-    setInterval(() => {
+    setTimeout(() => {
         showNotification();
-    }, getRandomTime(5000, 15000)); 
+        setupRandomNotifications();
+    }, getRandomNumber()); 
 }
 
 // Start the random notifications
+
 setupRandomNotifications();
