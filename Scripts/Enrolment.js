@@ -107,7 +107,7 @@ function showNotification() {
 
     setTimeout(() => {
         notification.style.display = 'none';
-    }, 2500);
+    }, 3500);
 }
 
 function setupRandomNotifications() {
