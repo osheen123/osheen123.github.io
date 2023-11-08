@@ -69,8 +69,8 @@
     --primary-color: #3469db;
     --color-1: #3437db;
     --color-2: #5834db;
-    --color-3: rgb(102, 52, 219);
-    --animation-duration: 8s;
+    --color-3: #570DA6;
+    --animation-duration: 6s;
     background-color: var(--primary-color);
     color: #fff;
     border: none;
