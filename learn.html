@@ -756,14 +756,14 @@
         $('html, body').animate({
             scrollTop: $("#pp1").offset().top
         }, 1500);
-        $(this).prop("disabled", true);
-            setTimeout(function() {
-            $("#now1").prop("disabled", false);
-            $("#now1").text("Complete the Payment");
+        $("#now1").text("Complete the Payment");
             $("#now1").css({
               "font-weight": "bold",
               "text-decoration": "underline"
-            });
+        });
+        $(this).prop("disabled", true);
+            setTimeout(function() {
+            $("#now1").prop("disabled", false);
         }, 1500);
       });
       $('#now2').click(function(e) {
