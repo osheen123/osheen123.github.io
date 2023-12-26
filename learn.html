@@ -725,7 +725,7 @@
                     <br>
                   </div>
                 </div>
-                <div class="col-sm-12" style="display: flex; justify-content: center; margin-top: 12px;">
+                <div class="col-sm-12" style="display: flex; justify-content: center; margin-top: 12px;" id="whattheapp">
                   <div class="row" style="display: flex; justify-content: center;  padding-right: 32px; padding-left: 32px; text-align: center;">
                     <button class="btn btn-success" id="wt1">Connect on Whatsapp</button>
                   </div>
@@ -791,9 +791,10 @@
     <script>
       $('#now1').click(function(e) {
         $('html, body').animate({
-          scrollTop: $("#pp1").offset().top
+          scrollTop: $("#whattheapp").offset().top
         }, 1500);
-        $("#now1").text("Complete the Payment");
+         $("#now1").hide();
+        /*$("#now1").text("Complete the Payment");
         $("#now1").css({
           "font-weight": "bold",
           "text-decoration": "underline"
@@ -801,7 +802,7 @@
         $(this).prop("disabled", true);
         setTimeout(function() {
           $("#now1").prop("disabled", false);
-        }, 1500);
+        }, 1500);*/
       });
       $('#now2').click(function(e) {
         window.location = "https://osheenmusic.com/payment";
