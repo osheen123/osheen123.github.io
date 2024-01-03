@@ -67,7 +67,7 @@
 
 .color-changing-button {
     --primary-color: #3469db;
-    --color-1: #ff4d4d;
+    --color-1: #000;
     --color-2: #5834db;
     --color-3: #570DA6;
     --animation-duration: 7s;
