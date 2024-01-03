@@ -70,7 +70,7 @@
     --color-1: #ff4d4d;
     --color-2: #5834db;
     --color-3: #570DA6;
-    --animation-duration: 3s;
+    --animation-duration: 4s;
     background-color: var(--primary-color);
     color: #fff;
     border: none;
