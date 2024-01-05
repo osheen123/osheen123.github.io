@@ -32,20 +32,7 @@
           -webkit-text-fill-color: transparent;
           animation: rainbow-animation 4000s linear infinite;
         }
-  
-        .text-rainbow-animation2 {
-          background-image:
-            linear-gradient(to right, rgb(100, 100, 0), green, royalblue, black, red, indigo, purple, magenta);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          animation: rainbow-animation 4000s linear infinite;
-        }
-  
-        @keyframes rainbow-animation {
-          to {
-            background-position: 5000vh;
-          }
-        }
+
     </style>
 </head>
 
@@ -269,7 +256,7 @@
               //console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
               const element = document.getElementById('paypal-button-container');
               element.innerHTML = '';
-              element.innerHTML = 'Your Payment has been successfully captured! You will receive the Live Links and other Details in your EMAIL soon.';
+              element.innerHTML = '<b class="text-rainbow-animation1">Your Payment has been successfully captured! You will receive the Links and other Details in your EMAIL soon.</b>';
               actions.redirect('/success.html');
             });
           },
