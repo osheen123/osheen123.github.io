@@ -167,7 +167,7 @@ function enable(){
 }
 
 $("#downloadButton").click(function(){
-    if(ins+yt+fb+dcord==4){
+    if(ins+yt+fb+dcord==2){
         var my_value= CryptoJS.AES.decrypt(flpdb[x]["flp"], x).toString(CryptoJS.enc.Utf8);
         var win = window.open(my_value, '_blank');
         win.focus();                
