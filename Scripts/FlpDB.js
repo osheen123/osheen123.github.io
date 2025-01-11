@@ -140,22 +140,10 @@ $("#youtubeButton").click(function(){
     }        
 })
 
-$("#facebookButton").click(function(){
-    if(fb==0){
-        var win = window.open('https://www.facebook.com/osheenmusic/', '_blank');
-        win.focus();
-        fb=1
-        setTimeout(function(){  
-        $("#facebookText").addClass("strike");        
-        enable()
-        }, 1000);
-        
-    }    
-})
 
 $("#instagramButton").click(function(){
     if(ins==0){
-        var win = window.open('https://www.instagram.com/osheenkhare/', '_blank');
+        var win = window.open('https://www.instagram.com/osheen.khare/', '_blank');
         win.focus();
         ins=1
         setTimeout(function(){  
@@ -165,24 +153,13 @@ $("#instagramButton").click(function(){
     }    
 })
 
-$("#discordButton").click(function(){
-    if(dcord==0){
-        var win = window.open('https://www.osheenmusic.com/discord', '_blank');
-        win.focus();
-        dcord=1
-        setTimeout(function(){  
-        $("#discordText").addClass("strike");                
-        enable()
-        }, 1000);                
-    }    
-})
 
 function enable(){
-    if(ins+yt+fb+dcord==4){
+    if(ins+yt+fb+dcord==2){
         $("#downloadText").text("DOWNLOAD FLP")
         $("#downloadButton").css("background","#000000")
-        $("#append1").append('<h6><b>Since all these projects are free downloads, consider supporting me on PAYPAL or PAYTM <span style="color:red">(This is an optional step, you can still download the FLP for free)</span> </b></h6>')
-        $("#append2").append('<a href="https://paypal.me/osheenyt"><div style="cursor: pointer;  padding: 10px; background: #0070ba;" class="text"><b>PAYPAL (FOR EVERYONE)</b></div></a><a href="/paytmkaro.html"><div style="cursor: pointer;  background: #00B9F1; padding: 10px;" class="text"><b>PAYTM (FOR INDIA ONLY)</b></div></a>')
+        //$("#append1").append('<h6><b>Since all these projects are free downloads, consider supporting me on PAYPAL or PAYTM <span style="color:red">(This is an optional step, you can still download the FLP for free)</span> </b></h6>')
+        //$("#append2").append('<a href="https://paypal.me/osheenyt"><div style="cursor: pointer;  padding: 10px; background: #0070ba;" class="text"><b>PAYPAL (FOR EVERYONE)</b></div></a><a href="/paytmkaro.html"><div style="cursor: pointer;  background: #00B9F1; padding: 10px;" class="text"><b>PAYTM (FOR INDIA ONLY)</b></div></a>')
     }    
 }
 
